@@ -1,0 +1,2723 @@
+{
+    "version": "v1.0",
+    "data": [
+        {
+            "title": "Không rõ tiêu đề",
+            "paragraphs": [
+                {
+                    "context": "Có hai vợ_chồng một ông_già nọ ngày_đêm buồn_phiền vì không con . Một buổi lên nương , ông_bà bỗng thấy một đứa bé ốm_yếu , khắp người chi_chít ghẻ_lở , nằm khóc oa_oa bên đường . Bà_già nói với chồng :",
+                    "qas": [
+                        {
+                            "id": "q_29_0_0",
+                            "question": "Trong truyện_Tiều A_Lé , ai đã nhận nuôi Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 3,
+                                    "text": "hai vợ_chồng"
+                                }
+                            ],
+                            "answer_start_word": 1,
+                            "answer_end_word": 2
+                        }
+                    ]
+                },
+                {
+                    "context": "Hai vợ_chồng ông_già rất_mực yêu_thương đứa bé . Có bao_nhiêu của_cải dành_dụm được bấy_lâu_nay , họ đều đem ra đổi lấy gạo , muối , thịt cá để nuôi Tiều A_Lé . Những ngày nắng cũng như mưa , bà_già đều ẵm cậu bé trên tay , còn ông_già lặn_lội khắp nẻo suối khe kiếm thêm con ốc , con cua_khe về nuôi bé .",
+                    "qas": [
+                        {
+                            "id": "q_29_1_0",
+                            "question": "Ai đã nuôi lớn Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Hai vợ_chồng"
+                                }
+                            ],
+                            "answer_start_word": 0,
+                            "answer_end_word": 1
+                        }
+                    ]
+                },
+                {
+                    "context": "Bàn_đi_tính_lại mãi , cuối_cùng hai ông_bà quyết_định sẽ đổi căn nhà của mình lấy một chiếc bè . Có bao_nhiêu thức_ăn , vật_dụng trong nhà , họ chuyển cả lên bè và đặt Tiều_A_Lé lên đó , rồi thả cho trôi theo dòng nước để may_ra có bến_thương , bến quý nào nhận nuôi nó lớn lên thành người .",
+                    "qas": [
+                        {
+                            "id": "q_29_2_0",
+                            "question": "Hai vợ_chồng già đã đổi_vật gì để lấy chiếc bè trong truyện_Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 61,
+                                    "text": "căn nhà"
+                                }
+                            ],
+                            "answer_start_word": 9,
+                            "answer_end_word": 10
+                        },
+                        {
+                            "id": "q_29_2_1",
+                            "question": "Hai vợ_chồng già đã đổi căn nhà để lấy vật gì trong truyện_Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 86,
+                                    "text": "chiếc bè"
+                                }
+                            ],
+                            "answer_start_word": 15,
+                            "answer_end_word": 16
+                        }
+                    ]
+                },
+                {
+                    "context": "Việc bàn_bạc đó được thực_hiên . Đứa bé A_Lé ra khỏi bến quen , ông_bà quay về bản cũ , nằm ngủ trên nền nhà trống . Họ ngủ một giấc dài và không bao_giờ dậy nữa .",
+                    "qas": [
+                        {
+                            "id": "q_29_3_0",
+                            "question": "Hai vợ_chồng trong truyện_Tiều A_Lé đã đi đâu sau khi tiễn A_Lé đi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 79,
+                                    "text": "bản cũ"
+                                }
+                            ],
+                            "answer_start_word": 17,
+                            "answer_end_word": 18
+                        }
+                    ]
+                },
+                {
+                    "context": "Chuyện chiếc bè lạ chở một người ghẻ_lở , bẩn_thỉu dạt vào bến , lọt đến tai_A_Nha giàu_có . A_Nha cho tôi tớ xua đẩy chiếc bè đi , nhưng cũng như mọi vận , chiếc bè bị đẩy ra rồi lại xoay vào chỗ cũ .",
+                    "qas": [
+                        {
+                            "id": "q_29_4_0",
+                            "question": "Ai đã cho người xô_đẩy chiếc bè của A_Lé đi trong truyện_Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 77,
+                                    "text": "A_Nha"
+                                }
+                            ],
+                            "answer_start_word": 16,
+                            "answer_end_word": 16
+                        }
+                    ]
+                },
+                {
+                    "context": "Chần_chừ một lúc , cô gái bước_bạo lên bè bón cơm cho chàng trai ghẻ lở ăn .",
+                    "qas": [
+                        {
+                            "id": "q_29_5_0",
+                            "question": "A_Lé mắc bệnh gì trong truyện_Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 65,
+                                    "text": "ghẻ lở"
+                                }
+                            ],
+                            "answer_start_word": 14,
+                            "answer_end_word": 15
+                        }
+                    ]
+                },
+                {
+                    "context": "Chuyện cô gái út_A_Nha cho chàng trai lạ ghẻ_lở uống nước , ăn cơm chẳng_mấy_chốc từ mồm người này truyền sang tai người kia , lan ra khắp bản và đến tai_A_Nha . A_Nha giận lắm , vừa thấy mặt con gái út dưới chân thang_sàn , A_Nha đã quát xua_đuổi , tiếng quát_vang như cọp_gầm :",
+                    "qas": [
+                        {
+                            "id": "q_29_6_0",
+                            "question": "Ai đã giúp_đỡ Tiều_A_Lé trong truyện_Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 7,
+                                    "text": "cô gái út"
+                                }
+                            ],
+                            "answer_start_word": 1,
+                            "answer_end_word": 3
+                        }
+                    ]
+                },
+                {
+                    "context": "Cô gái leo thẳng lên bè của Tiều_A_Lé và đẩy bè ra giữa dòng rồi cô nói với anh ta :",
+                    "qas": [
+                        {
+                            "id": "q_29_7_0",
+                            "question": "Ai đã đồng_hành cùng Tiều_A_Lé trên chiếc bè ?",
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Cô gái"
+                                }
+                            ],
+                            "answer_start_word": 0,
+                            "answer_end_word": 1
+                        }
+                    ]
+                },
+                {
+                    "context": "Mái che do chính cô út lợp bằng lá chuối làm_gì có áo , có váy ở đó ?_Nhưng nghe A_Lé giục , cô út_nể lòng , đứng lên sờ_tay vào mái lá . Chẳng_ngờ chuyện có thật . Ở ngay trong lớp lá chuối cô mới lợp lên có mấy bộ áo váy đẹp để sẵn . Cô gái mừng_rỡ , mặc áo váy đẹp vào người .",
+                    "qas": [
+                        {
+                            "id": "q_29_8_0",
+                            "question": "Cô gái tìm thấy vật gì theo lời của A_Lé trong truyện_Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 216,
+                                    "text": "áo váy đẹp"
+                                }
+                            ],
+                            "answer_start_word": 52,
+                            "answer_end_word": 54
+                        }
+                    ]
+                },
+                {
+                    "context": "– Chẳng phải đợi đến sáng_mai . Em đói rồi thì cứ lấy cơm_canh trên góc mái xuống mà ăn .",
+                    "qas": [
+                        {
+                            "id": "q_29_9_0",
+                            "question": "Tiều A_Lé đã chỉ cho cô gái út lấy thứ gì ở trên góc mái để ăn ?",
+                            "answers": [
+                                {
+                                    "answer_start": 54,
+                                    "text": "cơm canh"
+                                }
+                            ],
+                            "answer_start_word": 13,
+                            "answer_end_word": 13
+                        }
+                    ]
+                },
+                {
+                    "context": "Bỗng đâu có một lũ Nhắc ( 2 ) từ phía rừng đang đêm vào cướp bản . Chúng giết trẻ_con , đánh_bọn người_lớn và vơ vét hết của_cải nhà A_Nha . Trong cơn hoạn_nạn , A_Nha và những sống_sót trôi_dạt tận đâu_đâu .",
+                    "qas": [
+                        {
+                            "id": "q_29_10_0",
+                            "question": "Nhà A_Nha trong truyện_Tiều A_Lé bị ai đánh cướp ?",
+                            "answers": [
+                                {
+                                    "answer_start": 12,
+                                    "text": "một lũ Nhắc"
+                                }
+                            ],
+                            "answer_start_word": 3,
+                            "answer_end_word": 5
+                        }
+                    ]
+                },
+                {
+                    "context": "Khi cô út vào rừng thì A_Lé bỗng ngồi dậy và hiện nguyên_hình là một chàng trai đẹp , khỏe . Vấn chiếc khố đỏ gọn_gàng , giắt đầy một ống tên dài , Tiều_A_Lé ăn hết một_nửa phần cơm_canh , rồi cầm_giáo , mang ná nhảy lên bờ , đi về phía bản A_Nha .",
+                    "qas": [
+                        {
+                            "id": "q_29_11_0",
+                            "question": "Tiều A_Lé đã đi đâu khi cô út đi vào rừng trong truyện_Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 237,
+                                    "text": "bản A_Nha"
+                                }
+                            ],
+                            "answer_start_word": 53,
+                            "answer_end_word": 54
+                        }
+                    ]
+                },
+                {
+                    "context": "Lũ Nhắc nhận ra kẻ_thù của chúng có sức_mạnh_kì lạ . Chúng bèn chạy vào hẻm núi để dựa vào gốc cây , bờ đá chống lại . Tiều A_Lé múa_giáo đuổi theo , giết thêm không biết_bao_nhiêu thằng Nhắc khác . Lũ Nhắc sống_sót đã lần được một lèn đá dốc đứng , thấy Tiều_A_Lé đã chạy đuổi đến sát dưới chân , chúng hè nhau xô những hòn đà to như những con trâu đực , con lợn rừng từ trên cao nhào xuống .",
+                    "qas": [
+                        {
+                            "id": "q_29_12_0",
+                            "question": "Kẻ_thù của A_Lé là ai trong truyện_Tiều A_Lé là ai ?",
+                            "answers": [
+                                {
+                                    "answer_start": 0,
+                                    "text": "Lũ Nhắc"
+                                }
+                            ],
+                            "answer_start_word": 0,
+                            "answer_end_word": 1
+                        }
+                    ]
+                },
+                {
+                    "context": "– Em đừng sợ . Anh không còn ghẻ_lở nữa . Giàng đã cho anh mang cái lốt bẩn_thỉu ấy về do lòng tốt của con_người trên miền đất này . Em là người rất tốt , tốt nhất trên thế_gian . Anh cùng em làm vợ , làm chồng .",
+                    "qas": [
+                        {
+                            "id": "q_29_13_0",
+                            "question": "Ai đã khiến cho Tiều_A_Lé có_vẻ ngoài ghẻ_lở ?",
+                            "answers": [
+                                {
+                                    "answer_start": 42,
+                                    "text": "Giàng"
+                                }
+                            ],
+                            "answer_start_word": 11,
+                            "answer_end_word": 11
+                        }
+                    ]
+                },
+                {
+                    "context": "– Em à !_Anh giết xong Nhắc nhưng chưa tìm được A_Nha . Con nai vàng làm_sao gọi được bầy hươu_lạc trở về .",
+                    "qas": [
+                        {
+                            "id": "q_29_14_0",
+                            "question": "Tiều A_Lé muốn vợ mình đi tìm ai trong truyện_Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 48,
+                                    "text": "A_Nha"
+                                }
+                            ],
+                            "answer_start_word": 11,
+                            "answer_end_word": 11
+                        }
+                    ]
+                },
+                {
+                    "context": "– Tiều_A_Lé à !_Lá xanh mắc trên cành , lá vàng rơi cũng chỉ rơi về cội . Anh cho em đi tìm cha em và dân bản về .",
+                    "qas": [
+                        {
+                            "id": "q_29_15_0",
+                            "question": "A_Nha là gì của vợ Tiều_A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 92,
+                                    "text": "cha"
+                                }
+                            ],
+                            "answer_start_word": 23,
+                            "answer_end_word": 23
+                        }
+                    ]
+                },
+                {
+                    "context": "– Anh đã nghĩ thế nên anh đem xác Nhắc rải khắp đường bản làm_dấu cho em về lại với cha .",
+                    "qas": [
+                        {
+                            "id": "q_29_16_0",
+                            "question": "Vợ A_Lé dựa vào cái gì để tìm cha trong truyện_Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 30,
+                                    "text": "xác Nhắc"
+                                }
+                            ],
+                            "answer_start_word": 8,
+                            "answer_end_word": 9
+                        }
+                    ]
+                },
+                {
+                    "context": "Gặp lại cô út , nghe cô kể chuyện Tiều_A_Lé đã giết hết Nhắc , dân bản còn nửa tin , nửa_ngờ . Nhưng khi về bản thấy xác_Nhắc nằm chết ngổn_ngang , họ mới tin đó là chuyện thật và cử người đi tìm A_Nha .",
+                    "qas": [
+                        {
+                            "id": "q_29_17_0",
+                            "question": "Ai là người đã giết hết lũ Nhắc trong truyện_Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 34,
+                                    "text": "Tiều A_Lé"
+                                }
+                            ],
+                            "answer_start_word": 9,
+                            "answer_end_word": 9
+                        }
+                    ]
+                },
+                {
+                    "context": "Người già và dân bản đều muốn A_Lé làm Xuất ( 5 ) làm người mạnh giữ tên ngày vui , giấc_ngủ cho dân bản . A_Nha trao cả gia_tài cho vợ_chồng cô út coi giữ cho dân bản vui_lòng .",
+                    "qas": [
+                        {
+                            "id": "q_29_18_0",
+                            "question": "Dân bản muốn A_Lé làm_gì trong truyện_Tiều A_Lé ?",
+                            "answers": [
+                                {
+                                    "answer_start": 35,
+                                    "text": "làm Xuất"
+                                }
+                            ],
+                            "answer_start_word": 8,
+                            "answer_end_word": 9
+                        }
+                    ]
+                },
+                {
+                    "context": "( Truyện_cổ dân_tộc Bru ) ( 1 ) : Típ : cái giỏ đựng một khẩu_phần cơm trong mỗi gia_đình Vân_Kiều . ( 2 ) : Nhắc : Lũ_quỷ , lũ cướp khác dòng máu . ( 3 ) Hoa_La_Giong : loại hoa vàng , không thơm , không có nhụy phấn . ( 4 ) Hoa_Ma_Koong : một loại hoa rừng màu vàng , có đài hoa cứng . ( 5 ) Xuất : chủ làng .",
+                    "qas": [
+                        {
+                            "id": "q_29_19_0",
+                            "question": "Trong truyện_Tiều A_Lé , Hoa_Ma_Koong là gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 250,
+                                    "text": "hoa rừng"
+                                }
+                            ],
+                            "answer_start_word": 60,
+                            "answer_end_word": 61
+                        },
+                        {
+                            "id": "q_29_19_1",
+                            "question": "Trong truyện_Tiều A_Lé , Hoa_La_Giong là gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 175,
+                                    "text": "hoa vàng"
+                                }
+                            ],
+                            "answer_start_word": 42,
+                            "answer_end_word": 43
+                        },
+                        {
+                            "id": "q_29_19_2",
+                            "question": "Trong truyện_Tiều A_Lé , làm Xuất là làm gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 301,
+                                    "text": "chủ làng"
+                                }
+                            ],
+                            "answer_start_word": 75,
+                            "answer_end_word": 76
+                        },
+                        {
+                            "id": "q_29_19_3",
+                            "question": "Trong truyện_Tiều A_Lé , lũ Nhắc là ai ?",
+                            "answers": [
+                                {
+                                    "answer_start": 125,
+                                    "text": "lũ cướp"
+                                }
+                            ],
+                            "answer_start_word": 30,
+                            "answer_end_word": 31
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Không rõ tiêu đề",
+            "paragraphs": [
+                {
+                    "context": "Nhưng rồi cô cũng lấy được chồng . Chồng cô yêu vợ nhưng lại bực_mình vì thói_ghen của vợ . Cô ghen chồng làm cho xóm_giềng luôn cau_mặt vì những lời_qua tiếng_lại của họ . Cuối_cùng hai người không vừa ý nhau và ly_dị . Buồn_bực vì duyên_phận , cô bỏ đi_tu .",
+                    "qas": [
+                        {
+                            "id": "q_7_0_0",
+                            "question": "Trong truyện Sự_tích ông bình vôi , cô gái sau khi ly_dị đã làm gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 252,
+                                    "text": "đi tu"
+                                }
+                            ],
+                            "answer_start_word": 51,
+                            "answer_end_word": 51
+                        },
+                        {
+                            "id": "q_7_0_1",
+                            "question": "Cô vợ trong sự_tích ông bình vôi có thói_gì khiến chồng bực_mình ?",
+                            "answers": [
+                                {
+                                    "answer_start": 73,
+                                    "text": "thói ghen"
+                                }
+                            ],
+                            "answer_start_word": 16,
+                            "answer_end_word": 16
+                        },
+                        {
+                            "id": "q_7_0_2",
+                            "question": "Chồng cô gái trong sự_tích ông bình vôi là người chồng như_thế_nào ?",
+                            "answers": [
+                                {
+                                    "answer_start": 44,
+                                    "text": "yêu vợ"
+                                }
+                            ],
+                            "answer_start_word": 10,
+                            "answer_end_word": 11
+                        }
+                    ]
+                },
+                {
+                    "context": "Cô xuất_gia ở một ngôi chùa cổ trên núi suốt hai mươi năm . Nhữngcon chim , con thú rừng hầu_như quen_thuộc bóng_dáng của người sư nữ . Hai_mươi năm qua , cô vẫn chưa đắc_đạo . Cô thắc_mắc , vì tự cho mình thông kinh_kệ hơn người và chịu đủ mọi sự khổ_hạnh của nhà_chiền . Một ngày_kia cô quyết_định sang Tây_trúc một phen để tìm cho ra_lẽ . Đường sang Tây-trúc thiên_nguy_vạn hiểm nhưng cô quyết_định đi cho bằng được .",
+                    "qas": [
+                        {
+                            "id": "q_7_1_0",
+                            "question": "Cô gái đi_tu ở đâu trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 18,
+                                    "text": "ngôi chùa cổ"
+                                }
+                            ],
+                            "answer_start_word": 4,
+                            "answer_end_word": 6
+                        },
+                        {
+                            "id": "q_7_1_1",
+                            "question": "Cô gái trong sự_tích ông bình vôi đã đi_tu trong bao năm ?",
+                            "answers": [
+                                {
+                                    "answer_start": 45,
+                                    "text": "hai mươi năm"
+                                }
+                            ],
+                            "answer_start_word": 10,
+                            "answer_end_word": 12
+                        },
+                        {
+                            "id": "q_7_1_2",
+                            "question": "Cô gái đã làm_gì khi thấy mình vẫn chưa đắc_đạo trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 300,
+                                    "text": "sang Tây_trúc"
+                                }
+                            ],
+                            "answer_start_word": 61,
+                            "answer_end_word": 62
+                        }
+                    ]
+                },
+                {
+                    "context": "Một hôm , sau khi vượt qua một trái núi , sư nữ tìm vào một ngôi nhà hẻo_lánh dọc đường để nghỉ_chân . Hai mẹ_con chủ_nhân tuy người_rừng_núi quê_mùa nhưng vốn là kẻ ăn chay_niệm Phật , nên thấy khách là nhà tu_hành thì tiếp_đãi rất hậu . Khi được nghe kể công_trình tu_luyện của sư nữ họ càng cung_kính , coi như bậc thầy . Và khi biết rõ ý_định của sư_nữ thì họ cũng xin phép bỏ nhà bỏ cửa đi theo thầy để mong được đắc_dạo . Nghe họ câu khẩn , sư nữ cười : – Hai mẹ_con nhà này cũng muốn thành Phật_ư ?_Được , cứ đi theo ta ! . Nhưng bụng nàng bảo_dạ : – “ Chuông_khánh còn chẳng ăn ai , nữa là mảnh chĩnh vứt ngoài bờ tre ” .",
+                    "qas": [
+                        {
+                            "id": "q_7_2_0",
+                            "question": "Trong sự_tích ông bình vôi , cô gái đã gặp ai ở Tây_trúc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 103,
+                                    "text": "Hai mẹ_con"
+                                }
+                            ],
+                            "answer_start_word": 24,
+                            "answer_end_word": 25
+                        },
+                        {
+                            "id": "q_7_2_1",
+                            "question": "Tại_sao hai mẹ_con lại bỏ nhà theo sư_nữ trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 408,
+                                    "text": "mong được đắc_dạo"
+                                }
+                            ],
+                            "answer_start_word": 87,
+                            "answer_end_word": 89
+                        },
+                        {
+                            "id": "q_7_2_2",
+                            "question": "Hai mẹ_con trong câu_chuyện ông bình vôi là ai ?",
+                            "answers": [
+                                {
+                                    "answer_start": 163,
+                                    "text": "kẻ ăn_chay"
+                                }
+                            ],
+                            "answer_start_word": 33,
+                            "answer_end_word": 35
+                        },
+                        {
+                            "id": "q_7_2_3",
+                            "question": "Cô gái có danh_xưng là gì khi tới Tây_trúc trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 42,
+                                    "text": "sư nữ"
+                                }
+                            ],
+                            "answer_start_word": 11,
+                            "answer_end_word": 12
+                        }
+                    ]
+                },
+                {
+                    "context": "Từ hôm đó nhà_sư có thêm hai người bạn đồng_hành . Chân bớt mỏi , đường bớt dài , họ đi chả_mấy chốc đã tới đất Thánh . Từ trước đến sau , hai mẹ_con nhà nọ vẫn cung_kính , coisư nữnhư thầy . Còn sư_nữ đối_với họ không được như trước : – Không biết_chừng họ được thành Phật trước ta . Họ sẽ hơn ta … Bọn này mà đắc_đạo , thật là một điều_nhục cho Thiền_môn .",
+                    "qas": [
+                        {
+                            "id": "q_7_3_0",
+                            "question": "Thái_độ của hai mẹ_con với sư_nữ trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 161,
+                                    "text": "cung kính"
+                                }
+                            ],
+                            "answer_start_word": 38,
+                            "answer_end_word": 38
+                        },
+                        {
+                            "id": "q_7_3_1",
+                            "question": "Cô gái đã cùng hai mẹ_con đi tới đâu trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 108,
+                                    "text": "đất Thánh"
+                                }
+                            ],
+                            "answer_start_word": 25,
+                            "answer_end_word": 26
+                        }
+                    ]
+                },
+                {
+                    "context": "Nói_chuyện đức_Phật khi vừa nghe tin có người tìm đường đến Tây-trúc cầu_đạo , vội hóa_thân đi theo_dõi . Từ đầu đến cuối , đức_Phật vẫn không bỏ_sót một lời_nói , một cử_chỉ nào của sư nữ . Khi họ sắp qua một con sông rộng , đức_Phật hóa_phép hiện ra ở bên kia bờ một tòa cổ_tự , trước cửa có một cây bồ_đề rất lớn , để chờ họ .",
+                    "qas": [
+                        {
+                            "id": "q_7_4_0",
+                            "question": "Ai đã theo_dõi hành_trình cầu_đạo của cô gái và hai mẹ_con ?",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "đức Phật"
+                                }
+                            ],
+                            "answer_start_word": 1,
+                            "answer_end_word": 1
+                        },
+                        {
+                            "id": "q_7_4_1",
+                            "question": "Ai đã theo_dõi_sư nữ đi cầu_đạo trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "đức Phật"
+                                }
+                            ],
+                            "answer_start_word": 1,
+                            "answer_end_word": 1
+                        },
+                        {
+                            "id": "q_7_4_2",
+                            "question": "Ai đã hóa_thân trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "đức Phật"
+                                }
+                            ],
+                            "answer_start_word": 1,
+                            "answer_end_word": 1
+                        },
+                        {
+                            "id": "q_7_4_3",
+                            "question": "Ai đã hóa_phép trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "đức Phật"
+                                }
+                            ],
+                            "answer_start_word": 1,
+                            "answer_end_word": 1
+                        }
+                    ]
+                },
+                {
+                    "context": "– Kìa , chúng_ta đã tớiTây_trúc . Chóng thật !_Chính là cây bồ_đề của đức_Thế_Tôn_tu_luyện ngày_xưa . Thôi !_Hai mẹ_con cứ_việc trèo lên một cành cao_niệm kinh rồi buông tay rơi xuống là tức_khắc thành Phật ! .",
+                    "qas": [
+                        {
+                            "id": "q_7_5_0",
+                            "question": "Cây gì được đề_cập trong truyện sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 56,
+                                    "text": "cây bồ_đề"
+                                }
+                            ],
+                            "answer_start_word": 11,
+                            "answer_end_word": 12
+                        },
+                        {
+                            "id": "q_7_5_1",
+                            "question": "Cây bồ_đề_gắn liền với nhân_vật nào trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 70,
+                                    "text": "đức_Thế_Tôn"
+                                }
+                            ],
+                            "answer_start_word": 14,
+                            "answer_end_word": 14
+                        }
+                    ]
+                },
+                {
+                    "context": "Tin_tưởng ở lời_nói của bậc thầy , hai mẹ_con mừng_rỡ làm theo không chút ngần_ngại . Nhưng khi họ buông_tay cho người rơi xuống thì đức_Phật đã đón họ đưa lên trời . Có bốn vị La_hán mang tòa_sen đến rước đi . Tay hai mẹ_con vẫy_vẫy như có ý gọi người bạn đồng_hành .",
+                    "qas": [
+                        {
+                            "id": "q_7_6_0",
+                            "question": "Ai đã đón hai mẹ_con lên trời trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 133,
+                                    "text": "đức Phật"
+                                }
+                            ],
+                            "answer_start_word": 25,
+                            "answer_end_word": 25
+                        }
+                    ]
+                },
+                {
+                    "context": "– “ Đúng là họ thành Phật rồi ! . Sư_nữ vừa kinh_ngạc vừa mừng , vội trèo lên cây để làm như họ và để mong được như họ . Nhưng đức_Phật đã có ý trừng_phạt người đàn_bà kiêu_ngạo và độc_ác ấy một_cách đích_đáng , nên đã để cho cái xác rơi phịch xuống đất , tan xương vỡ sọ . Và sau đó đức_Phật lại bắt con_người khốn_nạn ấy hóa thành bình vôi . Tại_sao lại cho hóa thành bình vôi ? Có người bảo chính là đức_Phật muốn bắt những kẻ trong lòng bất_nhân , nhưng lại đeo bộ_dạng từ bi , phải để cho người_đời luôn_luôn móc_ruột .",
+                    "qas": [
+                        {
+                            "id": "q_7_7_0",
+                            "question": "Sư_nữ trong sự_tích ông bình vôi là người như_thế_nào ?",
+                            "answers": [
+                                {
+                                    "answer_start": 181,
+                                    "text": "độc ác"
+                                }
+                            ],
+                            "answer_start_word": 41,
+                            "answer_end_word": 41
+                        },
+                        {
+                            "id": "q_7_7_1",
+                            "question": "Ai bị biến thành bình_vôi trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 34,
+                                    "text": "Sư nữ"
+                                }
+                            ],
+                            "answer_start_word": 10,
+                            "answer_end_word": 10
+                        },
+                        {
+                            "id": "q_7_7_2",
+                            "question": "Ai đã hóa_sư nữ thành bình_vôi trong sự_tích ?",
+                            "answers": [
+                                {
+                                    "answer_start": 127,
+                                    "text": "đức Phật"
+                                }
+                            ],
+                            "answer_start_word": 32,
+                            "answer_end_word": 32
+                        }
+                    ]
+                },
+                {
+                    "context": "Có một anh ăn_trộm từng sống bao_nhiêu năm với nghề . Hắn ta không vợ_con gia_sản , chỉ độc có một túp lều bên cạnh đường_cái . Một hôm , có cặp vợ_chồng người ăn_mày qua đó xin trú_chân . Hắn cho họ ở lại và sau đó hắn thấy chồng bảo vợ : – “ Hôm_nay không xin được tí gì cả . Gần đây có một nương_khoai , chờ đến tối tôi sẽ đào trộm về ăn ” . Vợ can chồng : – “ Thôi đi ông !_Chỉ vì kiếp trước chúng_ta ăn_ở thất_đức nên mới như thế_này . Có_lẽ nào phạm thêm vào cho nặng_tội kiếp sau . Tôi thà chết không ăn_trộm ! ” .",
+                    "qas": [
+                        {
+                            "id": "q_7_8_0",
+                            "question": "Tài_sản của tên trộm trong sự_tích ông bình vôi là gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 95,
+                                    "text": "một túp lều"
+                                }
+                            ],
+                            "answer_start_word": 20,
+                            "answer_end_word": 22
+                        },
+                        {
+                            "id": "q_7_8_1",
+                            "question": "Tên trộm đã cho ai xin trú_chân ở lều của mình trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 141,
+                                    "text": "cặp vợ_chồng"
+                                }
+                            ],
+                            "answer_start_word": 31,
+                            "answer_end_word": 32
+                        },
+                        {
+                            "id": "q_7_8_2",
+                            "question": "Người chồng_định ăn_trộm cái gì trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 293,
+                                    "text": "nương khoai"
+                                }
+                            ],
+                            "answer_start_word": 68,
+                            "answer_end_word": 68
+                        }
+                    ]
+                },
+                {
+                    "context": "Người ăn_trộm nghe chuyện bỗng_dưng hối_hận . Cuối_cùng hắn giao tất_cả nhà_cửa cho hai vợ_chồng người ăn_mày rồi bỏ di . Hắn tìm đến mộtngôi chùatrên núi cao xin hòa_thượng cho cạo đầu tu_hành . Người ta giao cho hắn công_việc nấu_ăn : một bữa phải nấu từ tinh_sương và một bữa từ chiều . Phận_sự của hắn là giữ lửa không được để tắt , vì một lần tắt_lửa thì lại phải xuống núi xin về , cách xa hàng bao_nhiêu dặm .",
+                    "qas": [
+                        {
+                            "id": "q_7_9_0",
+                            "question": "Trong sự_tích ông bình_vôi , người ăn_trộm thấy thế_nào sau khi nghe cặp vợ_chồng nói_chuyện ?",
+                            "answers": [
+                                {
+                                    "answer_start": 36,
+                                    "text": "hối_hận"
+                                }
+                            ],
+                            "answer_start_word": 5,
+                            "answer_end_word": 5
+                        },
+                        {
+                            "id": "q_7_9_1",
+                            "question": "Tên trộm trong sự_tích ông bình vôi đã đưa cho hai vợ_chồng cái gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 72,
+                                    "text": "nhà_cửa"
+                                }
+                            ],
+                            "answer_start_word": 11,
+                            "answer_end_word": 11
+                        },
+                        {
+                            "id": "q_7_9_2",
+                            "question": "Người ăn_trộm đã làm_gì khi thấy hối_hận trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 186,
+                                    "text": "tu_hành"
+                                }
+                            ],
+                            "answer_start_word": 33,
+                            "answer_end_word": 33
+                        },
+                        {
+                            "id": "q_7_9_3",
+                            "question": "Công_việc của tên trộm khi đi tu_hành trong sự_tích ông bình vôi là ?",
+                            "answers": [
+                                {
+                                    "answer_start": 228,
+                                    "text": "nấu_ăn"
+                                }
+                            ],
+                            "answer_start_word": 41,
+                            "answer_end_word": 41
+                        },
+                        {
+                            "id": "q_7_9_4",
+                            "question": "Tên trộm phải làm_gì trong ngôi chùa trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 309,
+                                    "text": "giữ lửa"
+                                }
+                            ],
+                            "answer_start_word": 59,
+                            "answer_end_word": 60
+                        },
+                        {
+                            "id": "q_7_9_5",
+                            "question": "Nếu không giữ được lửa thì tên trộm phải làm gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 369,
+                                    "text": "xuống núi xin về"
+                                }
+                            ],
+                            "answer_start_word": 73,
+                            "answer_end_word": 76
+                        }
+                    ]
+                },
+                {
+                    "context": "Từ lúc nhận việc nhà_chùa , hắn tỏ ra chu_đáo lạ_thường , chưa có bữa nào để lửa tắt . Một sư_bác trên chùa ghét chú tiểu mới , bèn chờ một hôm tiểu ta ngủ say , tưới tắt lửa nhấm ở bếp .",
+                    "qas": [
+                        {
+                            "id": "q_7_10_0",
+                            "question": "Ai đã tưới tắt lửa bếp của chùa trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 91,
+                                    "text": "sư bác"
+                                }
+                            ],
+                            "answer_start_word": 21,
+                            "answer_end_word": 21
+                        }
+                    ]
+                },
+                {
+                    "context": "Gần sáng , chú tiểu dậy thấy không còn lửa , nghĩ đến phận_sự , vội_vã ba chân bốn cẳng vượt mấy khu rừng tìm xuống làng xin lửa . Giữa đường hắn gặp một con cọp già đòi ăn thịt . – “ Tôi vui_lòng để ngài xơi thịt – hắn nói – nhưng hãy cho tôi chạy xuống làng xin lửa cho nhà_chùa , rồi tôi sẽ tới nộp mạng ” .",
+                    "qas": [
+                        {
+                            "id": "q_7_11_0",
+                            "question": "Tên trộm được gọi_là gì trong truyện ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 11,
+                                    "text": "chú tiểu"
+                                }
+                            ],
+                            "answer_start_word": 3,
+                            "answer_end_word": 4
+                        },
+                        {
+                            "id": "q_7_11_1",
+                            "question": "Chú tiểu gặp cái gì khi xin lửa trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 154,
+                                    "text": "con cọp già"
+                                }
+                            ],
+                            "answer_start_word": 35,
+                            "answer_end_word": 37
+                        }
+                    ]
+                },
+                {
+                    "context": "Cọp bằng_lòng để cho đi . Khi đưa được lửa về , hắn kể sự_tình và xin phép hòa_thượng cho đi nộp mình cho cọp . Đến_nơi , cọp bảo : – “ Tao già rồi , răng đã rụng hết mà xương của mày cứng khó nhai . Vậy mày hãy trèo lên cây kia buông mình rơi xuống cho gẫy xương , tao mới ăn được ” . Hắn vâng lời cọp , nhưng khi buông tay thìđức_Phậtđã đón sẵn rước lên trời , độ cho thành Phật , tức_là Phật_Nhiên_Đăng .",
+                    "qas": [
+                        {
+                            "id": "q_7_12_0",
+                            "question": "Ai đã đón chú tiểu lên trời trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 328,
+                                    "text": "đức Phật"
+                                }
+                            ],
+                            "answer_start_word": 79,
+                            "answer_end_word": 79
+                        },
+                        {
+                            "id": "q_7_12_1",
+                            "question": "Chú tiểu đã trở_thành ai khi được rước lên trời ?",
+                            "answers": [
+                                {
+                                    "answer_start": 390,
+                                    "text": "Phật_Nhiên Đăng"
+                                }
+                            ],
+                            "answer_start_word": 92,
+                            "answer_end_word": 92
+                        },
+                        {
+                            "id": "q_7_12_2",
+                            "question": "Chuyện gì đã xảy ra với chú tiểu khi vâng lời cọp_già ?",
+                            "answers": [
+                                {
+                                    "answer_start": 370,
+                                    "text": "thành Phật"
+                                }
+                            ],
+                            "answer_start_word": 88,
+                            "answer_end_word": 89
+                        }
+                    ]
+                },
+                {
+                    "context": "Vị sư_bác kia thấy chú tiểu chỉ bằng vài hành_động đơn_giản mà được thành chính_quả thì cũng muốn được như_thế . Hắn bèn xin phép hòa_thượng cho mình ra đương_việc nấu_ăn và giữ lửa . Thế rồi một hôm hắn cũng giả_tảng để cho lửa tắt , rồi cũng chạy xuống núi xin lửa . Và hắn cũng gặp cọp , cũng khất_cọp xin đưa lửa về cho nhà_chùa dùng rồi sau đó sẽ xin nộp mình . Nhưng đức_Phật vốn hiểu rõ những việc_làm của hắn xuất_phát từ tấm lòng không thực , nên khi hắn trèo lên cây và buông_tay , thì Phật lập_tức bắt hắn hóa thành bình vôi .",
+                    "qas": [
+                        {
+                            "id": "q_7_13_0",
+                            "question": "Ai đã hóa thành bình_vôi trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 3,
+                                    "text": "sư bác"
+                                }
+                            ],
+                            "answer_start_word": 1,
+                            "answer_end_word": 1
+                        },
+                        {
+                            "id": "q_7_13_1",
+                            "question": "Sư_bác đã bị đức_Phật hóa thành cái gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 527,
+                                    "text": "bình vôi"
+                                }
+                            ],
+                            "answer_start_word": 110,
+                            "answer_end_word": 111
+                        },
+                        {
+                            "id": "q_7_13_2",
+                            "question": "Ai đã hóa_sư bác thành bình_vôi trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 373,
+                                    "text": "đức Phật"
+                                }
+                            ],
+                            "answer_start_word": 79,
+                            "answer_end_word": 79
+                        }
+                    ]
+                },
+                {
+                    "context": "Một dị_bản của truyện trên cũng là một phật_thoại , là Sự_tích cái ống nhổ .",
+                    "qas": [
+                        {
+                            "id": "q_7_14_0",
+                            "question": "Sự_tích ông bình vôi còn được gọi_là sự_tích gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 63,
+                                    "text": "cái ống nhổ"
+                                }
+                            ],
+                            "answer_start_word": 12,
+                            "answer_end_word": 14
+                        }
+                    ]
+                },
+                {
+                    "context": "Ở đây cũng có hainhân vậtchính là chú tiểu và sư_bác . Chú tiểu mới đi_tu nhưng rất chăm_chỉ , biết lo_lắng làm tròn chức_trách . Thấy lửa ở đống nhấm_tắt ( kỳ_thực là do sư_bác ghen tỵ phun nước cho tắt ) , tiểu không nề hiểm_nguy chạy xuống núi vào lúc mờ sáng để có lửa về kịp nấu_ăn cho nhà_chùa . Phật hiện ra với trạng_mạo một ông_già khuyên_can chú tiểu đừng đi , nhưng thấy chú cương_quyết đi , bèn bảo chú trèo lên cây buông tay xuống , sẽ có kẻ đưa đi an_toàn . Quả_nhiên chú tiểu buông tay rơi đúng trên lưng một con muông ; nó đưa chú xuống làng , rồi sau khi xin được lửa lại đưa về vô_sự .",
+                    "qas": [
+                        {
+                            "id": "q_7_15_0",
+                            "question": "Nhân_vật chính trong sự_tích ông bình vôi là ?",
+                            "answers": [
+                                {
+                                    "answer_start": 34,
+                                    "text": "chú tiểu"
+                                }
+                            ],
+                            "answer_start_word": 7,
+                            "answer_end_word": 8
+                        },
+                        {
+                            "id": "q_7_15_1",
+                            "question": "Phản_diện trong sự_tích ông bình vôi là ?",
+                            "answers": [
+                                {
+                                    "answer_start": 46,
+                                    "text": "sư bác"
+                                }
+                            ],
+                            "answer_start_word": 10,
+                            "answer_end_word": 10
+                        },
+                        {
+                            "id": "q_7_15_2",
+                            "question": "Người hóa thành Phật trong sự_tích ông bình vôi là ?",
+                            "answers": [
+                                {
+                                    "answer_start": 34,
+                                    "text": "chú tiểu"
+                                }
+                            ],
+                            "answer_start_word": 7,
+                            "answer_end_word": 8
+                        },
+                        {
+                            "id": "q_7_15_3",
+                            "question": "Người bị hóa thành bình_vôi trong sự_tích là ?",
+                            "answers": [
+                                {
+                                    "answer_start": 46,
+                                    "text": "sư bác"
+                                }
+                            ],
+                            "answer_start_word": 10,
+                            "answer_end_word": 10
+                        },
+                        {
+                            "id": "q_7_15_4",
+                            "question": "Ai đã đưa chú tiểu xuống làng xin lửa trong sự_tích ông bình vôi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 520,
+                                    "text": "một con muông"
+                                }
+                            ],
+                            "answer_start_word": 109,
+                            "answer_end_word": 111
+                        }
+                    ]
+                },
+                {
+                    "context": "Sư_bác vốn không phải là chân_tu , nhưng thấy chú tiểu gặp Phật , cũng muốn được như_vậy , bèn cũng xin ra làm công_việc nấu_ăn và giữ lửa , sau đó hắn đã để tắt lửa và cũng được gặpPhật . Nhưng khi buông_tay thì Phật đã bắt hắn hóa thành cái ống nhổ , miệng luôn_luôn há ra cho người ta khạc nhổ vào , để tỏ_lòng khinh_bỉ .",
+                    "qas": [
+                        {
+                            "id": "q_7_16_0",
+                            "question": "Sư_bác bị biến thành cái gì trong sự_tích cái ống nhổ ?",
+                            "answers": [
+                                {
+                                    "answer_start": 239,
+                                    "text": "cái ống nhổ"
+                                }
+                            ],
+                            "answer_start_word": 52,
+                            "answer_end_word": 54
+                        },
+                        {
+                            "id": "q_7_16_1",
+                            "question": "Sư_bác muốn gì khi làm công_việc nấu_ăn và giữ lửa ?",
+                            "answers": [
+                                {
+                                    "answer_start": 55,
+                                    "text": "gặp Phật"
+                                }
+                            ],
+                            "answer_start_word": 11,
+                            "answer_end_word": 12
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Không rõ tiêu đề",
+            "paragraphs": [
+                {
+                    "context": "Từ thuở xa_xưa , có hai mẹ_con sống rất nghèo , hằng ngày phải đi làm_mướn để kiếm bữa ăn tạm qua_ngày . Cậu bé chỉ mới lên mười , dù rất thương_mẹ nhưng em đành phải xa mẹ đi_ở cho một lão nhà giàu chuyên nghề mổ lợn .",
+                    "qas": [
+                        {
+                            "id": "q_6_0_0",
+                            "question": "Cậu bé trong truyện Sự_tích hoa đại_bao tuổi ?",
+                            "answers": [
+                                {
+                                    "answer_start": 124,
+                                    "text": "mười"
+                                }
+                            ],
+                            "answer_start_word": 28,
+                            "answer_end_word": 28
+                        },
+                        {
+                            "id": "q_6_0_1",
+                            "question": "Hai mẹ_con trong truyện Sự_tích hoa đại_kiếm sống như_thế_nào ?",
+                            "answers": [
+                                {
+                                    "answer_start": 63,
+                                    "text": "đi làm_mướn"
+                                }
+                            ],
+                            "answer_start_word": 14,
+                            "answer_end_word": 15
+                        },
+                        {
+                            "id": "q_6_0_2",
+                            "question": "Hoàn_cảnh hai mẹ_con trong truyện Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 31,
+                                    "text": "sống rất nghèo"
+                                }
+                            ],
+                            "answer_start_word": 7,
+                            "answer_end_word": 9
+                        }
+                    ]
+                },
+                {
+                    "context": "Một hôm , em đang chặt củi ở bên sườn núi thì bỗng thấy một con hươu con bị sa xuống hố . Chú hươu con lo_lắng và kêu lên một_cách tuyệt_vọng . Chú cứ mở to đôi mắt , ngẩng đầu lên nhìn quanh như đợi mẹ mình đến cứu . Chú bé cũng nhìn quanh tìm_kiếm xem có hươu mẹ ở đâu_đây không , nhưng chỉ thấy cây rừng và tiếng gió thổi xào_xạt . Em liền lần xuống hố ẵm chú hươu con lên . Thấy có người , lúc đầu chú hươu con sợ_sệt né_tránh , nhưng chỉ một lúc , chú để yên cho cậu bé vuốt_ve . Cậu bứt một_ít cỏ non cho hươu con ăn , rồi lại bẻ một miếng cơm từ nắm cơm – bữa trưa ít_ỏi của mình chấm muối bón thử cho hươu ăn . Hươu con chưa quen ăn cơm , nhưng hình_như rất thích_vị mằn mặn của muối . Cậu bé rất muốn đem hươu con về nhà mẹ nuôi nhưng sợ lão chủ biết . Còn nếu đem về nhà lão đồ_tể , chắc_chắn lão sẽ thịt hươu con mất , bởi lão vẫn thường nói với mọi người rằng lão rất thèm thịt hươu . Cậu có ý trông_đợi hươu mẹ trở_lại để giao hươu con vì không ai là không muốn sống với mẹ . Cậu nhủ_thầm với con hươu mà như là nói với chính mình vậy .",
+                    "qas": [
+                        {
+                            "id": "q_6_1_0",
+                            "question": "Người con đã thấy cái gì khi đang chặt củi trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 56,
+                                    "text": "một con hươu"
+                                }
+                            ],
+                            "answer_start_word": 14,
+                            "answer_end_word": 16
+                        },
+                        {
+                            "id": "q_6_1_1",
+                            "question": "Ai bị sa xuống hố trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 60,
+                                    "text": "con hươu con"
+                                }
+                            ],
+                            "answer_start_word": 15,
+                            "answer_end_word": 17
+                        }
+                    ]
+                },
+                {
+                    "context": "– À !_Mày muốn ăn cơm với muối chứ gì ? – Cậu bé bẻ một miếng cơm_chấm vào muối rồi bón cho hươu con , sau đó đi hái cỏ non cho nó . Trong lúc chặt củi , em cho hươu con đứng bên cạnh . Có hươu con , em chặt củi không biết mệt một_chút nào cả . Từ đó , cậu bé và hươu con trở_thành đôi bạn thân , ngày nào cũng gặp nhau , chỉ có đêm là cả hai đành phải tạm xa nhau . Thương hươu con không có mẹ nên quấn_quít với mình , nhiều đêm em nằm_mơ gặp hươu con và đùa_giỡn với nó . Một đêm nọ , lão đồ tể_thức dậy ra sân xem trời gần sáng chưa để giết lợn . Bỗng hắn nghe ở dưới bếp tiếng cậu bé đang nằm nói_mê rất rõ như đang thức :",
+                    "qas": [
+                        {
+                            "id": "q_6_2_0",
+                            "question": "Hươu con và cậu bé trong sự_tích hoa_đại có mối quan_hệ gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 282,
+                                    "text": "đôi bạn thân"
+                                }
+                            ],
+                            "answer_start_word": 71,
+                            "answer_end_word": 73
+                        },
+                        {
+                            "id": "q_6_2_1",
+                            "question": "Ai là kẻ xấu ở trong sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 487,
+                                    "text": "lão đồ_tể"
+                                }
+                            ],
+                            "answer_start_word": 120,
+                            "answer_end_word": 122
+                        },
+                        {
+                            "id": "q_6_2_2",
+                            "question": "Ai là phản_diện trong truyện Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 487,
+                                    "text": "lão đồ_tể"
+                                }
+                            ],
+                            "answer_start_word": 120,
+                            "answer_end_word": 122
+                        },
+                        {
+                            "id": "q_6_2_3",
+                            "question": "Cậu bé đã cho hươu con ăn gì trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 18,
+                                    "text": "cơm với muối"
+                                }
+                            ],
+                            "answer_start_word": 5,
+                            "answer_end_word": 7
+                        },
+                        {
+                            "id": "q_6_2_4",
+                            "question": "Khi nào thì cậu bé và hươu con phải tạm xa nhau trong Sự tich hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 329,
+                                    "text": "đêm"
+                                }
+                            ],
+                            "answer_start_word": 83,
+                            "answer_end_word": 83
+                        }
+                    ]
+                },
+                {
+                    "context": "Thế_là lão sai người_nhà lén theo cậu lên rừng . Hắn chứng_kiến cảnh em cùng chú hươu con gặp nhau và quấn_quýt bên nhau suốt ngày nên liền về mách với lão chủ . Lão chủ liền nói :",
+                    "qas": [
+                        {
+                            "id": "q_6_3_0",
+                            "question": "Trong sự_tích hoa_đại , cậu bé và chú hươu con thường gặp nhau ở đâu ?",
+                            "answers": [
+                                {
+                                    "answer_start": 42,
+                                    "text": "rừng"
+                                }
+                            ],
+                            "answer_start_word": 8,
+                            "answer_end_word": 8
+                        }
+                    ]
+                },
+                {
+                    "context": "Hươu con hiểu ý_phóng như bay vào rừng . Lão đồ_tể và hai tên người làm đuổi theo nhưng không kịp . Hươu con đã phóng mất_dạng khiến bọn họ không biết_đâu mà tìm . Lão đồ tể_giận lắm , quay lại đánh cậu bé một trận . Trong cơn điên_tiết , lão lấy một hòn đá nện vào lưng cậu . Không may hòn đá đánh trúng vào đầu khiến cậu bé ngã lăn ra nằm không động_đậy . Lão đồ_tể bỏ mặc em giữa rừng , cùng hai tên người làm trở về nhà . Hươu con chạy rất xa , lên đỉnh đồi nhìn xuống . Thấy lão đồ_tể độc_ác cùng hai tên người làm đã về thật rồi , hươu con chạy xuống với người bạn thân_thiết của mình . Hươu con hà_hơi ấm vào lưng và ngực của cậu bé . Một lúc sau , cậu bé tỉnh dậy . Thấy hươu con , cậu mừng quá , ôm lấy cổ hươu mà khóc .",
+                    "qas": [
+                        {
+                            "id": "q_6_4_0",
+                            "question": "Trong truyện Sự_tích hoa_đại , lão đồ_tể đã làm gì cậu bé sau khi để hươu con chạy mất ?",
+                            "answers": [
+                                {
+                                    "answer_start": 194,
+                                    "text": "đánh cậu bé"
+                                }
+                            ],
+                            "answer_start_word": 42,
+                            "answer_end_word": 44
+                        },
+                        {
+                            "id": "q_6_4_1",
+                            "question": "Lão đồ_tể đã dùng vật gì để trút giận lên cậu bé sau khi để hươu con chạy mất ?",
+                            "answers": [
+                                {
+                                    "answer_start": 247,
+                                    "text": "một hòn đá"
+                                }
+                            ],
+                            "answer_start_word": 54,
+                            "answer_end_word": 56
+                        },
+                        {
+                            "id": "q_6_4_2",
+                            "question": "Hươu con đã chạy đi đâu khi bị lão đồ_tể đuổi theo trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 453,
+                                    "text": "đỉnh đồi"
+                                }
+                            ],
+                            "answer_start_word": 104,
+                            "answer_end_word": 105
+                        }
+                    ]
+                },
+                {
+                    "context": "Thế_là người và hươu kéo nhau đi sang khu rừng khác , tránh ngày_mai lão đồ_tể có_thể đưa người và chó lên lùng_sục . Phải đi nhanh thật xa nơi này . Nghĩ vậy , dù trời đã tối và đau_đớn khắp người , nhưng cậu bé và hươu con vẫn nương vào nhau mà đi nhanh . Vết_thương trên đầu đau_nhức nhưng muốn cứu hươu và cứu mình , cậu bé cố bước_đi . Đến những lúc mệt quá , cậu lại ngồi_bệt xuống cỏ nghỉ_ngơi . Lúc đó , hươu con lại quấn_quýt bên cạnh như vỗ_về , an_ủi và lại hà_hơi ấm vào lưng và ngực cho cậu . Hôm sau , lão đồ_tể đưa người và chó lên thật . Nhưng lùng_sục mãi , lão vẫn không tìm thấy hươu và cậu bé đâu cả nên đành hậm_hực trở về . Cậu bé ở với hươu mấy ngày liền trong khu rừng sâu và tự tìm lá để chữa vết_thương . Cả người và hươu_cố kiếm quả rừng , cỏ rừng để ăn tạm . Nhưng được mấy ngày nhớ mẹ quá , cậu bé nói với hươu con rằng :",
+                    "qas": [
+                        {
+                            "id": "q_6_5_0",
+                            "question": "Lão đồ_tể đã dẫn theo ai để truy_lùng cậu bé và hươu con trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 90,
+                                    "text": "người và chó"
+                                }
+                            ],
+                            "answer_start_word": 18,
+                            "answer_end_word": 20
+                        }
+                    ]
+                },
+                {
+                    "context": "Cậu bé về gặp mẹ và biết được cách đây vài hôm , lão đồ_tể có sai người đến dò_hỏi cậu có trốn về không . Mẹ cậu không hề hay_biết cậu đã bị lão đánh suýt chết . Cậu bé về lần này đúng vào dịp người chú chèo thuyền thuê cũng ghé về thăm nhà . Nghe cậu kể chuyện , người chú liền nói :",
+                    "qas": [
+                        {
+                            "id": "q_6_6_0",
+                            "question": "Lão đồ_tể đã làm_gì khi cậu bé để vuột mất hươu trong truyện Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 145,
+                                    "text": "đánh suýt chết"
+                                }
+                            ],
+                            "answer_start_word": 35,
+                            "answer_end_word": 37
+                        },
+                        {
+                            "id": "q_6_6_1",
+                            "question": "Ai đã về thăm nhà của cậu bé trong truyện Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 193,
+                                    "text": "người chú"
+                                }
+                            ],
+                            "answer_start_word": 47,
+                            "answer_end_word": 48
+                        }
+                    ]
+                },
+                {
+                    "context": "– Thì cháu cứ theo chú ăn_học . Ngày sau khôn_lớn trở về , lúc đó cháu gặp lại hươu con vẫn không muộn mà .",
+                    "qas": [
+                        {
+                            "id": "q_6_7_0",
+                            "question": "Người chú đã đề_xuất điều gì với cậu bé trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 14,
+                                    "text": "theo chú ăn_học"
+                                }
+                            ],
+                            "answer_start_word": 4,
+                            "answer_end_word": 6
+                        }
+                    ]
+                },
+                {
+                    "context": "Lòng cậu bé muốn vậy , nhưng cuộc_đời đâu phải muốn gì được nấy . Cậu bé đi với chú mình , và được ông gửi cho đi học ở một ông đồ nghèo nhưng rất thương người . Và trong một chuyến đi xa , thuyền của chú cậu bé bị đắm và ông mãi_mãi không trở về nữa . Cậu bé được ông đồ nuôi_dạy , nhưng từ đó phải ở luôn với ông . Đường về quê mẹ xa quá , cậu càng nhớ thương mẹ gấp_bội . Sau đó vài năm , cậu nghe tin mẹ mình đã mất . Hết thương_mẹ , cậu lại nhớ đến hươu . Chú hươu con ngày nào không biết bây_giờ đã lớn và đã nhập đàn sống với đồng loại chưa ?_Chú hươu con còn nhớ mình hay đã quên rồi ?",
+                    "qas": [
+                        {
+                            "id": "q_6_8_0",
+                            "question": "Ai đã nuôi dạy cậu bé sau khi chú cậu bé bị đắm trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 124,
+                                    "text": "ông đồ nghèo"
+                                }
+                            ],
+                            "answer_start_word": 31,
+                            "answer_end_word": 33
+                        },
+                        {
+                            "id": "q_6_8_1",
+                            "question": "Cậu bé cảm_thấy ra sao khi phải ở với ông đồ trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 351,
+                                    "text": "nhớ thương mẹ"
+                                }
+                            ],
+                            "answer_start_word": 86,
+                            "answer_end_word": 88
+                        }
+                    ]
+                },
+                {
+                    "context": "Nhưng con hươu không quên . Nó vẫn nhớ người bạn , người chủ nhỏ của mình . Hằng ngày nó vẫn đến_nơi chia_tay với cậu bé để ngóng trông người bạn đã từng hứa sẽ trở_lại với mình , nhưng chẳng thấy bóng_dáng đâu cả . Nhiều năm trôi qua , hươu lớn lên , sừng bắt_đầu mọc . Đôi sừng ngày_càng to_lớn , nhưng chú hươu vẫn hiền_lành như xưa . Hươu vẫn luôn mong_chờ người bạn cũ của mình . Nhưng đời hươu không dài bằng đời người được .",
+                    "qas": [
+                        {
+                            "id": "q_6_9_0",
+                            "question": "Tính_tình của chú hươu con trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 318,
+                                    "text": "hiền_lành"
+                                }
+                            ],
+                            "answer_start_word": 69,
+                            "answer_end_word": 69
+                        },
+                        {
+                            "id": "q_6_9_1",
+                            "question": "Nhiều năm trôi qua , chú hươu con đã thay_đổi thế_nào ?",
+                            "answers": [
+                                {
+                                    "answer_start": 252,
+                                    "text": "sừng bắt_đầu mọc"
+                                }
+                            ],
+                            "answer_start_word": 56,
+                            "answer_end_word": 58
+                        }
+                    ]
+                },
+                {
+                    "context": "Bây_giờ hươu đã trở_thành con hươu đầu_đàn . Một hôm , hươu bỗng gặp một đoàn người đốt than . Hươu muốn đến gần nhưng rất ngại họ . Chờ cho đến khi mọi người về hết , hươu mới rời đàn , một_mình đến gần chỗ họ đã ngồi trước đó . Trông thấy một_ít muối rơi_vãi dưới đất , hươu nếm_vị mằn mặn của muối mà bỗng nhớ người bạn của mình khôn_tả xiết . Thế_là , nó để bầy đàn lại cho một con hươu khác dẫn_đầu , rồi một_mình tìm đến_chốn cũ , nơi có cái hang năm_xưa hươu đã sống ở đó hằng ngày và chờ cậu bé . Cái hang vẫn như xưa và nó sống quanh_quẩn ở đó . Bấy_giờ cỏ mọc quanh miệng hang um_tùm và hươu mỗi ngày_một già đi . Đến một ngày nọ , mặt_trời sắp lặn , hươu_già nằm_xuống , giấu mình trong bụi rậm ở ngay bên cạnh hang và chết . Lúc này , người bạn của hươu đang ở một nơi rất xa và đã có vợ_con . Một hôm , thấy người đi bán sừng_hươu , anh bỗng nhớ lại chuyện cũ và kể cho vợ_con nghe . Anh nhắc lại câu nói năm_xưa mỗi khi cho hươu ăn :",
+                    "qas": [
+                        {
+                            "id": "q_6_10_0",
+                            "question": "Thứ gì đã khiến hươu con nhớ lại người bạn của mình trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 241,
+                                    "text": "một_ít muối"
+                                }
+                            ],
+                            "answer_start_word": 55,
+                            "answer_end_word": 56
+                        },
+                        {
+                            "id": "q_6_10_1",
+                            "question": "Hươu con đã từng sống ở đâu để chờ cậu bé trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 444,
+                                    "text": "cái hang"
+                                }
+                            ],
+                            "answer_start_word": 99,
+                            "answer_end_word": 100
+                        },
+                        {
+                            "id": "q_6_10_2",
+                            "question": "Thứ gì đã khiến cậu bé nhớ lại chuyện cũ trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 834,
+                                    "text": "sừng hươu"
+                                }
+                            ],
+                            "answer_start_word": 190,
+                            "answer_end_word": 190
+                        }
+                    ]
+                },
+                {
+                    "context": "Đứa con lập_tức đòi bố đưa về thăm quê , viếng mộ bà và lên rừng tìm xem chú hươu còn không ?_Thương con , nhớ mẹ và nhớ hươu , anh liền thu_xếp đưa vợ_con về quê . Về đến làng xưa , hỏi ra mới biết lão đồ_tể độc_ác một hôm dẫn chó lên rừng đi săn đã bị rắn độc_cắn chết . Sau khi thăm mộ mẹ xong , anh liền đưa con lên rừng . Thỉnh_thoảng cơn gió rừng thổi thoang_thoảng đem lại mùi hương vừa gần_gũi , vừa xa_xôi như chào_đón như dẫn đường anh . Theo mùi hương , hai bố_con đến ngay cái hang ngày_xưa mà anh đã giấu chú hươu con . Cả hai bố_con chợt sửng_sốt và đứng im_lặng mãi với cảnh_tượng trước_mắt . Bên cạnh miệng hang mọc lên một loài cây lạ và đang nở đầy hoa . Mùi hương của nó thật đậm_đà . Nhìn kỹ thì cành cây rất giống sừng_hươu . Lúc đó , có mấy người đốt than đi ngang . Họ kể rằng , trước_đây ngay tại_chỗ cây hoa đang nở , có một con hươu già từ đâu không biết , đến ở đó rồi nằm chết luôn . Sau đó , ở gần miệng hang bỗng mọc lên loài cây này , lá to giống tai_hươu và cành giống sừng_hươu . Người bố nghe nói , liền_đoán ngay đấy là chú hươu con ngày_xưa . Thì_ra chú vẫn nhớ tới người bạn nhỏ của mình và vẫn chờ_đợi mình . Lòng đầy ân_hận , anh liền nói :",
+                    "qas": [
+                        {
+                            "id": "q_6_11_0",
+                            "question": "Chuyện gì đã xảy ra với lão đồ_tể trong truyện Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 254,
+                                    "text": "rắn độc_cắn chết"
+                                }
+                            ],
+                            "answer_start_word": 61,
+                            "answer_end_word": 63
+                        },
+                        {
+                            "id": "q_6_11_1",
+                            "question": "Cành cây lạ mọc cạnh miệng hang nơi chú hươu con từng sống trông như_thế_nào ?",
+                            "answers": [
+                                {
+                                    "answer_start": 729,
+                                    "text": "giống sừng hươu"
+                                }
+                            ],
+                            "answer_start_word": 162,
+                            "answer_end_word": 163
+                        },
+                        {
+                            "id": "q_6_11_2",
+                            "question": "Mùi hương của loài cây lạ cạnh miệng hang trong Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 695,
+                                    "text": "đậm đà"
+                                }
+                            ],
+                            "answer_start_word": 154,
+                            "answer_end_word": 154
+                        },
+                        {
+                            "id": "q_6_11_3",
+                            "question": "Cậu bé trong truyện Sự_tích hoa_đại đã thấy thế_nào khi biết chú hươu con luôn chờ_đợi mình ?",
+                            "answers": [
+                                {
+                                    "answer_start": 1156,
+                                    "text": "ân_hận"
+                                }
+                            ],
+                            "answer_start_word": 260,
+                            "answer_end_word": 260
+                        }
+                    ]
+                },
+                {
+                    "context": "Hai bố_con cùng khấn xin hươu cho mình mang giống cây lạ về quê trồng , và để luôn nhớ tới hươu . Ngày_nay , loài cây trổ hoa có cành giống như sừng_hươu ấy được gọi_là cây hoa_Đại . Có người bảo , chữ_Đại là từ chữ Đợi , chờ_đợi mà có .",
+                    "qas": [
+                        {
+                            "id": "q_6_12_0",
+                            "question": "Loài cây lạ trong Sự_tích hoa_đại là gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 169,
+                                    "text": "cây hoa Đại"
+                                }
+                            ],
+                            "answer_start_word": 37,
+                            "answer_end_word": 38
+                        },
+                        {
+                            "id": "q_6_12_1",
+                            "question": "ý_nghĩa của từ Đại trong truyện Sự_tích hoa_đại ?",
+                            "answers": [
+                                {
+                                    "answer_start": 216,
+                                    "text": "Đợi"
+                                }
+                            ],
+                            "answer_start_word": 48,
+                            "answer_end_word": 48
+                        },
+                        {
+                            "id": "q_6_12_2",
+                            "question": "Cành hoa_Đại trong sự_tích hoa_đại được ví với cái gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 144,
+                                    "text": "sừng hươu"
+                                }
+                            ],
+                            "answer_start_word": 33,
+                            "answer_end_word": 33
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Không rõ tiêu đề",
+            "paragraphs": [
+                {
+                    "context": "– Con khóc vì con thương cây lúa nghẹn đòng .",
+                    "qas": [
+                        {
+                            "id": "q_11_0_0",
+                            "question": "Cô bé khóc_thương cho cái gì trong truyện bà_chúa bèo ?",
+                            "answers": [
+                                {
+                                    "answer_start": 25,
+                                    "text": "cây lúa"
+                                }
+                            ],
+                            "answer_start_word": 6,
+                            "answer_end_word": 7
+                        }
+                    ]
+                },
+                {
+                    "context": "Nghe Bụt nói thế , cô bé càng khóc to hơn . Bụt lại hỏi :",
+                    "qas": [
+                        {
+                            "id": "q_11_1_0",
+                            "question": "Nhân_vật nào đã xuất_hiện khi cô bé khóc trong truyện bà_chúa bèo ?",
+                            "answers": [
+                                {
+                                    "answer_start": 5,
+                                    "text": "Bụt"
+                                }
+                            ],
+                            "answer_start_word": 1,
+                            "answer_end_word": 1
+                        }
+                    ]
+                },
+                {
+                    "context": "– Con có muốn cứu lúa không ?",
+                    "qas": [
+                        {
+                            "id": "q_11_2_0",
+                            "question": "Điều_ước của cô bé trong truyện bà_chúa bèo ?",
+                            "answers": [
+                                {
+                                    "answer_start": 14,
+                                    "text": "cứu lúa"
+                                }
+                            ],
+                            "answer_start_word": 4,
+                            "answer_end_word": 5
+                        }
+                    ]
+                },
+                {
+                    "context": "Cô bénhìn áo mình thì áo nâu_vá , sờ vào túi thì túi nhẵn không , nhòm vào giỏ thì giỏ chỉ có mấy con cua vừa_mới bắt được . Sực nhớ đến đôi hoa tai bằng ngọc_quý , cô vội gỡ ra , rồi hai tay dâng lên Bụt :",
+                    "qas": [
+                        {
+                            "id": "q_11_3_0",
+                            "question": "Cô bé đã đưa gì cho Bụt để cứu lúa trong truyện bà_chúa bèo ?",
+                            "answers": [
+                                {
+                                    "answer_start": 137,
+                                    "text": "đôi hoa tai"
+                                }
+                            ],
+                            "answer_start_word": 33,
+                            "answer_end_word": 35
+                        }
+                    ]
+                },
+                {
+                    "context": "Nói đến đây , cô bé ngừng lại . Bụt_giục nói tiếp . Cô bé nhìn đôi hoa_tai lóng_lánh :",
+                    "qas": [
+                        {
+                            "id": "q_11_4_0",
+                            "question": "Trong truyện bà_chúa_bèo , cô bé quý nhất cái gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 63,
+                                    "text": "đôi hoa tai"
+                                }
+                            ],
+                            "answer_start_word": 16,
+                            "answer_end_word": 17
+                        }
+                    ]
+                },
+                {
+                    "context": "– Mẹ_con còn bảo : “ Dòng_họ có lời nguyền hễ ai được đeo hoa_tai mà làm mất hoặc đem bán đi , thì người đó suốt đời sẽ bị dòng_họ xa_lánh , hắt_hủi , suốt đời sẽ sống một cuộc_sống lẻ_loi , buồn_tủi ” .",
+                    "qas": [
+                        {
+                            "id": "q_11_5_0",
+                            "question": "Người mẹ đã cảnh_báo về điều gì với cô bé trong truyện bà_chúa bèo ?",
+                            "answers": [
+                                {
+                                    "answer_start": 32,
+                                    "text": "lời nguyền"
+                                }
+                            ],
+                            "answer_start_word": 8,
+                            "answer_end_word": 9
+                        }
+                    ]
+                },
+                {
+                    "context": "– Con đưa cho ta vật_quý , con không sợ bị trừng_phạt sao ?",
+                    "qas": [
+                        {
+                            "id": "q_11_6_0",
+                            "question": "Bụt đã yêu_cầu cô bé cái gì để cứu lúa trong truyện bà_chúa bèo ?",
+                            "answers": [
+                                {
+                                    "answer_start": 17,
+                                    "text": "vật quý"
+                                }
+                            ],
+                            "answer_start_word": 5,
+                            "answer_end_word": 5
+                        }
+                    ]
+                },
+                {
+                    "context": "Cô bé làm ngay theo lời Bụt . Lạ chưa ! Bông hoa_tai sáng_rực lên một mầu xanh rồi chìm xuống_nước . Sau đó nổi lên một cây bèo_hình hoa_dâu , giống_hệt hoa_tai của cô bé .",
+                    "qas": [
+                        {
+                            "id": "q_11_7_0",
+                            "question": "Cái gì đã xuất_hiện khi cô bé làm theo lời bụt trong truyện bà_chúa bèo ?",
+                            "answers": [
+                                {
+                                    "answer_start": 116,
+                                    "text": "một cây bèo"
+                                }
+                            ],
+                            "answer_start_word": 26,
+                            "answer_end_word": 28
+                        },
+                        {
+                            "id": "q_11_7_1",
+                            "question": "Cây_bèo trong truyện bà_chúa_bèo trông giống cái gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 40,
+                                    "text": "Bông hoa tai"
+                                }
+                            ],
+                            "answer_start_word": 11,
+                            "answer_end_word": 12
+                        }
+                    ]
+                },
+                {
+                    "context": "Dứt lời , Bụt_biến mất . Cô bé xuống ruộng , đụng vàocây bèoxanh mượt . Hễ đụng vào một cây hóa thành hai , đụng vào hai cây , hóa thành bốn , đụng vào bốn cây , hóa thành tám . Thoạt đầu , cô lấy một ngón tay đụng vào bèo , dần_dần lấy cả năm ngón tay rồi cả bàn_tay mà nhân_bèo . Cô mải_mê làm đến chiều_tối , bèo đã xanh kín cả ruộng . Hôm sau , cô lại đem một_ít bèo sang ruộng bên cạnh , và cứ thế nhân lên .",
+                    "qas": [
+                        {
+                            "id": "q_11_8_0",
+                            "question": "Cái gì đã giúp cô bé cứu ruộng lúa trong truyện bà_chúa bèo ?",
+                            "answers": [
+                                {
+                                    "answer_start": 53,
+                                    "text": "cây bèo"
+                                }
+                            ],
+                            "answer_start_word": 12,
+                            "answer_end_word": 13
+                        }
+                    ]
+                },
+                {
+                    "context": "Mùa năm ấy , lúa chín vàng trĩu hạt . Dân_làng chung_quanh thấy bón_bèo hoa dâu lúa tốt , đến mua giống . Bèo hoa dâu dần_dần lan rộng ra nhiều làng , nhiều huyện .",
+                    "qas": [
+                        {
+                            "id": "q_11_9_0",
+                            "question": "Giống_bèo trong truyện bà_chúa bèo là gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 106,
+                                    "text": "Bèo hoa dâu"
+                                }
+                            ],
+                            "answer_start_word": 23,
+                            "answer_end_word": 25
+                        }
+                    ]
+                },
+                {
+                    "context": "Cô bé cúi đầu , ngập_ngừng , rồi kể hết cho bố nghe câu_chuyện cô ngồi Khóc_thương lúa và gặp Bụt .",
+                    "qas": [
+                        {
+                            "id": "q_11_10_0",
+                            "question": "Cô bé đã kể chuyện gặp Bụt cho ai trong truyện bà_chúa bèo ?",
+                            "answers": [
+                                {
+                                    "answer_start": 44,
+                                    "text": "bố"
+                                }
+                            ],
+                            "answer_start_word": 11,
+                            "answer_end_word": 11
+                        }
+                    ]
+                },
+                {
+                    "context": "– Bụt nói đúng . Dòng_họ , dân_làng nhờ con mà được ấm_no , dòng_họ sẽ bỏ lời nguyền , và thương_con , yêu con mãi_mãi . Ngày_nay , không phải chỉ có một đôi hoa_tai làm_đẹp cho một người mà có hàng triệu triệu hoa tai làm cho mọi người ấm_no .",
+                    "qas": [
+                        {
+                            "id": "q_11_11_0",
+                            "question": "Cây_bèo được ví với cái gì trong truyện bà_chúa bèo ?",
+                            "answers": [
+                                {
+                                    "answer_start": 211,
+                                    "text": "hoa tai"
+                                }
+                            ],
+                            "answer_start_word": 45,
+                            "answer_end_word": 46
+                        }
+                    ]
+                },
+                {
+                    "context": "Người_ta kể lại rằng : sau khi cô chết , để tỏ_lòng nhớ_ơn cô , dân_làng La_Vân , tỉnh Thái_Bình_lập đền thờ và gọi cô là : “ Bà_Chúa_Bèo “ .",
+                    "qas": [
+                        {
+                            "id": "q_11_12_0",
+                            "question": "Câu_chuyện bà_chúa bèo diễn ra ở đâu ?",
+                            "answers": [
+                                {
+                                    "answer_start": 87,
+                                    "text": "Thái_Bình"
+                                }
+                            ],
+                            "answer_start_word": 19,
+                            "answer_end_word": 19
+                        },
+                        {
+                            "id": "q_11_12_1",
+                            "question": "Cô gái trong truyện Bà_chúa bèo được gọi_là gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 126,
+                                    "text": "Bà_Chúa_Bèo"
+                                }
+                            ],
+                            "answer_start_word": 28,
+                            "answer_end_word": 28
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Không rõ tiêu đề",
+            "paragraphs": [
+                {
+                    "context": "Xưa có một người đàn_ông tính rất vũ_phu . Đối_với vợ_con , hơi_động một tý là hắn đánh_đập không tiếc_tay . Hắn ham chơi gà_chọi , ham đến_nỗi trên đời ngoài gà ra , hắn cho không còn thú gì tiêu_khiển hơn thế được . Lần đó hắn mua được một con gà thật tốt . Con gà ấy có nước_đá rất hay , đã từng đoạt được nhiều giải . Hắn quý_gà vô_cùng , chăm_sóc từng ly từng tý một . Một hôm hắn đi chơi xa , dặn vợ ở nhà trông_nom con gà cho mình . Hắn dọa : – Mạng của nó tức_là của mày đó ! Ngày hôm đó gà mấy lần chạy ra ăn đỗ phơi ở sân . Người vợ ngồi chặt củi gần đấy đuổi mãi không được . Một lần , sẵn con dao chặt củi , chị cầm ném đuổi gà . Không ngờ dao trúng vào cổ , con gà giãy lên đành đạch , một lát thì chết . Thấy con gà cưng của chồng chẳng may vì mình mà chết , người vợ xanh cả mặt . Nghĩ đến những trận đòn của chồng , nàng gạt nước_mắt khóc . Nàng bảo mẹ chồng : – Con không may đánh chết gà . Chồng con về chắc sẽ không để yên cho nào . Nhưng con đã có mang được bốn tháng nay , biết làm_sao bây_giờ ? Bà_cụ đáp : – Con đừng lo , để mẹ nhận là mẹ ném cho . Chả_nhẽ nó lại ăn thịt mẹ nó hay sao ?_Người chồng trở về , vừa bước chân vào nhà đã hỏi vợ : – Con gà đâu ?_Người vợ run_rẩy chưa kịp đáp thì người mẹ đã bảo : – Tao nhỡ tay trót ném chết nó . Rồi ta sẽ đền tiền cho mày mua con khác . Hắn ta nổi_giận đùng_đùng , hất_hàm hỏi vợ : – Mày thổi cơm mau_mau cho bà ấy ăn_no đi !_Cả nhà tưởng hắn dọa_dẫm bà_cụ . Nhưng cơm_nước xong hắn cầm thuổng đi trước , bảo vợ lấy dây trói tay mẹ lại , dắt đi sau . Ra đến cánh đồng , hắn hì_hục đào một cái huyệt , quyết_định chôn người đã làm chết con gà quý của mình . Nhưng ở trên thiên_đình , Ngọc_Hoàng đã thấy hết được tội_ác của thằng con bất_hiếu , liền sai_Thần Sét xuống trị_tội ngay . Vì_thế , huyệt vừa đào xong bỗng đâu trời nổi một cơn gió lớn , giữa đồng có một tiếng nổ rất to . Thần_Sét đã nhảy xuống từ khi nào , đánh hắn ngã xuống một bên huyệt và thích mấy chữ vào mặt . Thiên_hạ nghe tin_đồn đổ_xô đến xem rất đông . Khi quan về khám , sai lấy dấm_bôi vào mặt , thấy nổi lên tám chữ “ Quý_gà chôn mẹ , tội_ác không tha ” . Ngày_nay ở vùng Bắc_Ninh có còn cái bia ghi câu_chuyện trên . Câu_rủa Con_trời đánh cũng là do truyện ấy mà có .",
+                    "qas": [
+                        {
+                            "id": "q_26_0_0",
+                            "question": "Người đàn_ông trong truyện Đứa con trời đánh là người như_thế_nào ?",
+                            "answers": [
+                                {
+                                    "answer_start": 34,
+                                    "text": "vũ_phu"
+                                }
+                            ],
+                            "answer_start_word": 7,
+                            "answer_end_word": 7
+                        },
+                        {
+                            "id": "q_26_0_1",
+                            "question": "Người chồng có sở_thích gì trong truyện Đứa con trời đánh ?",
+                            "answers": [
+                                {
+                                    "answer_start": 117,
+                                    "text": "chơi gà chọi"
+                                }
+                            ],
+                            "answer_start_word": 23,
+                            "answer_end_word": 24
+                        },
+                        {
+                            "id": "q_26_0_2",
+                            "question": "Ai đã giết con gà của người chồng trong truyện Đứa con trời đánh ?",
+                            "answers": [
+                                {
+                                    "answer_start": 773,
+                                    "text": "người vợ"
+                                }
+                            ],
+                            "answer_start_word": 184,
+                            "answer_end_word": 185
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Không rõ tiêu đề",
+            "paragraphs": [
+                {
+                    "context": "Ở bìa rừng , có hai bà cháu nghèo_khổ sinh_sống . Hằng ngày , hai bà cháu phải đi đào củ mài để ăn . Một hôm , cậu bé nói với bà : – Bà ơi , bây_giờ cháu đã lớn . Từ nay trở đi , cháu sẽ đi kiếm củi đổi lấy thóc giống và cây lúa để có gạo nấu cơm cho bà ăn , ăn củ_mài mãi thì khổ lắm ! Từ đó , cậu bé cấy_cày và chăm_chút cho nương lúa của mình . Nhìn cây lúa trổ bông , rồi chín vàng , cậu sung_sướng nghĩ : “ Thế_là bà sắp được ăn cơm rồi ! ” . Nhưng chẳng may , một hôm cả khu rừng bị cháy thành tro . Cậu bé buồn quá , bưng mặt khóc . Bỗng có ông Bụt hiện lên và bảo : – Hỡi_cậu bé hiếu_thảo chăm_chỉ , ta cho con một điều_ước , con hãy ước đi ! – Thưa ông , con chỉ mong bà của con không bị đói thôi , bà_con già_yếu lắm rồi … Ông Bụt gật đầu và biến mất . Buổi trưa cậu bé vào rừng đào củ mài nhưng kiếm mãi cũng chẳng còn củ nào . Đến vài cái nấm hay khóm măng_chua cũng chẳng có . Bỗng cậu bé đào được một củ gì rất lạ . Ruột nó màu vàng_nhạt và bột mịn_mềm . Cái củ đó cũng bị lửa rừng hâm_nóng và bốc mùi thơm ngòn ngọt . Cậu bé bẻ một miếng nếm thử thì thấy ngon_tuyệt , Cậu bèn đào thêm mấy củ nữa đem về mời bà ăn . Bà cũng tấm_tắc khen ngon và thấy khỏe hẳn ra . Bà hỏi : – Củ này ở đâu mà ngon vậy hả cháu ?_Cậu bé hào_hứng kể lại câu_chuyện được gặp ông Bụt cho bà nghe . Bà nói : – Vậy_thì thức củ này là của ông Bụt_ban cho người nghèo chúng_ta đấy . Cháu hãy vào rừng tìm thứ cây quý đó đem trồng khắp bìa rừng , bờ suối để cho mọi người nghèo cũng có cái ăn . Nếu ai muốn trồng , chỉ cần đem vài dây khoai xuống đất và chăm_bón thì tới mùa sẽ thu_hoạch được rất nhiều củ . Và cho đến bây_giờ , khoai_lang vẫn được nhiều người ưa_thích .",
+                    "qas": [
+                        {
+                            "id": "q_38_0_0",
+                            "question": "Trong sự_tích khoai_lang , hai bà cháu sống ở đâu ?",
+                            "answers": [
+                                {
+                                    "answer_start": 2,
+                                    "text": "bìa rừng"
+                                }
+                            ],
+                            "answer_start_word": 1,
+                            "answer_end_word": 2
+                        },
+                        {
+                            "id": "q_38_0_1",
+                            "question": "Trong sự_tích khoai_lang , hai bà cháu phải ăn gì để sống qua_ngày ?",
+                            "answers": [
+                                {
+                                    "answer_start": 86,
+                                    "text": "củ mài"
+                                }
+                            ],
+                            "answer_start_word": 20,
+                            "answer_end_word": 21
+                        },
+                        {
+                            "id": "q_38_0_2",
+                            "question": "Trong sự_tích khoai_lang , hai bà cháu sống như_thế_nào ?",
+                            "answers": [
+                                {
+                                    "answer_start": 28,
+                                    "text": "nghèo_khổ"
+                                }
+                            ],
+                            "answer_start_word": 8,
+                            "answer_end_word": 8
+                        },
+                        {
+                            "id": "q_38_0_3",
+                            "question": "Ai là người đã giúp cậu bé trong Sự_tích khoai_lang ?",
+                            "answers": [
+                                {
+                                    "answer_start": 548,
+                                    "text": "ông Bụt"
+                                }
+                            ],
+                            "answer_start_word": 140,
+                            "answer_end_word": 141
+                        },
+                        {
+                            "id": "q_38_0_4",
+                            "question": "Ông bụt đã ban cho cậu bé cái gì trong Sự_tích khoai_lang ?",
+                            "answers": [
+                                {
+                                    "answer_start": 1615,
+                                    "text": "khoai_lang"
+                                }
+                            ],
+                            "answer_start_word": 392,
+                            "answer_end_word": 392
+                        },
+                        {
+                            "id": "q_38_0_5",
+                            "question": "Cậu bé đã tìm thấy gì trong rừng khi đi tìm củ mài trong Sự_tích khoai_lang ?",
+                            "answers": [
+                                {
+                                    "answer_start": 1615,
+                                    "text": "khoai_lang"
+                                }
+                            ],
+                            "answer_start_word": 392,
+                            "answer_end_word": 392
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Không rõ tiêu đề",
+            "paragraphs": [
+                {
+                    "context": "Ngày_xưa có một anh_chàng nghèo_khó , sống một thân một_mình . Tuy làm_việc tất_lực nhưng đói_rách vẫn hoàn đói_rách . Những bông lúa đẹp do bàn_tay chàng vun_bón thì cứ thi nhau chạy về nhà_lão trọc_phú . Cuối_cùng , chàng đành bán tất_cả những thứ còn lại trong nhà để mua một lưỡi búa , với ý_định từ nay làm nghề đốn củi nuôi_thân , may_chi thay_đổi được số_phận . Nhưng kiếm được một gánh củi không phải là dễ . Một hôm , theo lệ thường chàng tiến vào rừng sâu tìm củi . Sắp giơ búa giáng vào một cây đại_thụ bỗng có một con tinh_từ trong thân cây hiện ra trước mặt van_lạy , van_nài . Chàng dừng tay hỏi :",
+                    "qas": [
+                        {
+                            "id": "q_37_0_0",
+                            "question": "Chàng đốn củi đã gặp con tinh ở đâu trong truyện_Chàng đốn củi và con tinh ?",
+                            "answers": [
+                                {
+                                    "answer_start": 502,
+                                    "text": "cây đại_thụ"
+                                }
+                            ],
+                            "answer_start_word": 101,
+                            "answer_end_word": 102
+                        }
+                    ]
+                },
+                {
+                    "context": "Con tinh_bảo chờ một lát , đoạn mang đến một cái mâm đồng và nói :",
+                    "qas": [
+                        {
+                            "id": "q_37_1_0",
+                            "question": "Con_tinh đã đưa cho chàng đốn củi cái gì trong truyện_Chàng đốn củi và con tinh ?",
+                            "answers": [
+                                {
+                                    "answer_start": 49,
+                                    "text": "mâm đồng"
+                                }
+                            ],
+                            "answer_start_word": 11,
+                            "answer_end_word": 12
+                        }
+                    ]
+                },
+                {
+                    "context": "Ăn xong , say rượu , chàng nằm lăn ra giường làm một giấc ly_bì . Lão chủ quán thấy thế thì động_lòng tham_lam . Thừa_dịp mọi người tản đi , hắn vào buồng chọn một cái mâm giống với chiếc mâm màu_nhiệm kia , rồi đánh_tráo vào . Chàng đốn củi_thức dậy không biết là mâm đã bị đánh_tráo , hý_hửng mang về . Sắp về tới làng , anh nghĩ bụng nên cho mọi người biết số_phận của mình từ nay đã khác trước và nhân_thể đãi làng_xóm chén một bữa ra trò . Cho_nên chàng rẽ ngay vào đính đánh trống gọi làng ầm_ĩ . Tất_cả mọi người từ ông tiên thứ chỉ cho đến anh mõ , ai_nấy đều tưởng là có việc , lục_tục đổ ra đình_đông như hội . Anh_chàng trịnh_trọng lên_tiếng :",
+                    "qas": [
+                        {
+                            "id": "q_37_2_0",
+                            "question": "Chàng tiều_phu muốn khoe ai biết về chiếc mâm đồng trong truyện_Chàng đốn củi và con tinh ?",
+                            "answers": [
+                                {
+                                    "answer_start": 316,
+                                    "text": "làng"
+                                }
+                            ],
+                            "answer_start_word": 68,
+                            "answer_end_word": 68
+                        }
+                    ]
+                },
+                {
+                    "context": "Trở về nhà , chàng đốn củi bực_mình vô_hạn . Chắc chỉ có con tinh nó lừa mình nên chuyện mới xảy ra như_thế . Cho_nên qua ngày_mai , anh lại vác búa lên rừng tìm đến cái cây cũ ra_sức giáng_búa vào . Con_tinh hốt_hoảng chạy ra van lạy_chí chết và xin tặng một con ngựa ỉa ra vàng để được tha tính_mạng .",
+                    "qas": [
+                        {
+                            "id": "q_37_3_0",
+                            "question": "Con_tinh đã tặng con gì cho chàng tiều_phu trong truyện_Chàng đốn củi và con tinh ?",
+                            "answers": [
+                                {
+                                    "answer_start": 260,
+                                    "text": "con ngựa"
+                                }
+                            ],
+                            "answer_start_word": 55,
+                            "answer_end_word": 56
+                        },
+                        {
+                            "id": "q_37_3_1",
+                            "question": "Con ngựa của con_tinh có_thể làm_gì trong truyện_Chàng đốn củi và con tinh ?",
+                            "answers": [
+                                {
+                                    "answer_start": 269,
+                                    "text": "ỉa ra vàng"
+                                }
+                            ],
+                            "answer_start_word": 57,
+                            "answer_end_word": 59
+                        }
+                    ]
+                },
+                {
+                    "context": "Đến chợ , chàng lại xuống ngựa , vào khoe với vợ_chồng lão chủ quán :",
+                    "qas": [
+                        {
+                            "id": "q_37_4_0",
+                            "question": "Ai đã lấy_cắp của chàng tiều_phu trong truyện_Chàng đốn củi và con tinh ?",
+                            "answers": [
+                                {
+                                    "answer_start": 55,
+                                    "text": "lão chủ quán"
+                                }
+                            ],
+                            "answer_start_word": 12,
+                            "answer_end_word": 14
+                        }
+                    ]
+                },
+                {
+                    "context": "Hôm ấy , không ngờ lại có lão trọc_phú và con gái lão cũng có_mặt ở đấy . Con gái lão là người đã làm cho chàng đốn củi chết_mê chết mệt . Mọi ngày , tuy thấy anh nghèo_khổ mà nàng vẫn tỏ_lòng quyến_luyến , những lúc chàng đến làm_công cho lão trọc_phú , hai bên từng có cơ_hội gặp_gỡ , chuyện_trò . Nhưng đối_với lão thì đừng có hòng tính_chuyện lấy nhau . Bây_giờ_đây , thấy lão van như_vạc , chàng tới thỉnh cầu_lão gả con gái cho mình . Lão_gật . Thế_là chiếc ống lại gõ xuống đất buông_tha tất_cả mọi người .",
+                    "qas": [
+                        {
+                            "id": "q_37_5_0",
+                            "question": "Chàng tiều_phu muốn lấy con gái của ai làm vợ trong truyện_Chàng đốn củi và con tinh ?",
+                            "answers": [
+                                {
+                                    "answer_start": 26,
+                                    "text": "lão trọc_phú"
+                                }
+                            ],
+                            "answer_start_word": 7,
+                            "answer_end_word": 8
+                        }
+                    ]
+                },
+                {
+                    "context": "Rồi đó , anh_chàng đốn củi lấy được vợ như ý_muốn . Với ba món bảo_bối , chàng đi khắp thiên_hạ giúp_đỡ những người nghèo_khổ và trị_tội những bọn tham_lam độc_ác .",
+                    "qas": [
+                        {
+                            "id": "q_37_6_0",
+                            "question": "Anh_chàng tiều_phu đã được con tinh_tặng cái gì trong truyện_Chàng đốn củi và con tinh ?",
+                            "answers": [
+                                {
+                                    "answer_start": 56,
+                                    "text": "ba món bảo_bối"
+                                }
+                            ],
+                            "answer_start_word": 13,
+                            "answer_end_word": 15
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Không rõ tiêu đề",
+            "paragraphs": []
+        },
+        {
+            "title": "Không rõ tiêu đề",
+            "paragraphs": [
+                {
+                    "context": "Lưu_Bình và Dương_Lễlà bạn kết_nghĩa với nhau . Cả hai cùng đi học và chơi chung với nhau thân_thiết lắm .",
+                    "qas": [
+                        {
+                            "id": "q_24_0_0",
+                            "question": "Trong truyện Tình_bạn Lưu_Bình_Dương_Lễ , Lưu_Bình và Dương_Lễ có mối quan_hệ gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 23,
+                                    "text": "bạn kết_nghĩa"
+                                }
+                            ],
+                            "answer_start_word": 3,
+                            "answer_end_word": 4
+                        },
+                        {
+                            "id": "q_24_0_1",
+                            "question": "Lưu_Bình là gì với Dương_Lễ ?",
+                            "answers": [
+                                {
+                                    "answer_start": 23,
+                                    "text": "bạn kết_nghĩa"
+                                }
+                            ],
+                            "answer_start_word": 3,
+                            "answer_end_word": 4
+                        }
+                    ]
+                },
+                {
+                    "context": "Lưu_Bình_con nhà giàu_sang nhưng lại lười_biếng không chịu học_hành mà chỉ thích ăn_chơi . Thi_kỳ nào hỏng kỳ đó . Trái_lại Dương_Lễ rất nghèo nhưng biết_phận nên chịu_khó học_hành đêm_ngày . Lưu_Bình lại rất tử_tế với bạn : Anh ta cho Dương_Lễ tiền để mua giấy_mực , áo_quần , cơm_gạo để ăn_học .",
+                    "qas": [
+                        {
+                            "id": "q_24_1_0",
+                            "question": "Lưu_Bình trong truyện Tình_bạn Lưu_Bình_Dương_Lễ có hoàn_cảnh gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 13,
+                                    "text": "nhà giàu"
+                                }
+                            ],
+                            "answer_start_word": 1,
+                            "answer_end_word": 2
+                        },
+                        {
+                            "id": "q_24_1_1",
+                            "question": "Lưu_Bình là người như_thế_nào ?",
+                            "answers": [
+                                {
+                                    "answer_start": 37,
+                                    "text": "lười_biếng"
+                                }
+                            ],
+                            "answer_start_word": 5,
+                            "answer_end_word": 5
+                        },
+                        {
+                            "id": "q_24_1_2",
+                            "question": "Dương_Lễ là người như_thế_nào ?",
+                            "answers": [
+                                {
+                                    "answer_start": 163,
+                                    "text": "chịu_khó"
+                                }
+                            ],
+                            "answer_start_word": 27,
+                            "answer_end_word": 27
+                        },
+                        {
+                            "id": "q_24_1_3",
+                            "question": "Lưu_Bình_đối_xử với Dương_Lễ như_thế_nào ?",
+                            "answers": [
+                                {
+                                    "answer_start": 209,
+                                    "text": "tử_tế"
+                                }
+                            ],
+                            "answer_start_word": 34,
+                            "answer_end_word": 34
+                        }
+                    ]
+                },
+                {
+                    "context": "Thế rồi Lưu_Bình tìm đến nhà quan_Dương_Lễ . Anh ta không được phép vào gặp ngay mà phải chờ_đợi ở ngoài rất lâu . Sau_cùng một lính hầu đưa anh ta đến một căn phòng đặc_biệt . Khi ra tiếp_đón bạn , Dương_Lễ trông rất thờ_ơ lạnh_nhạt như người xa_lạ . Dương_Lễ không cho tiền_bạc gì cả . Đến khi Lưu_Bình_than đói bụng thì Dương_Lễ mới sai lính hầu cho người bạn một bát cơm nguội đựng trong cái bát_mẻ , mấy quả cà_thiu , và bắt bạn ngồi ăn dưới đất . Lưu_Bình_tức giận thâm_gan tím_ruột . Khi trở về căn nhà nghèo_nàn của anh , anh ta buồn_tủi cho số_phận mình nên không sao ngủ được đêm_hôm đó . Rồi anh ta quyết_chí học_hành để thi đỗ làm_quan cho bằng Dương_Lễ . Nhưng than ôi lấy tiền đâu mà mua giấy mực để học bây_giờ . Còn áo_quần và thức_ăn nữa chứ . Anh ta buồn_rầu lắm vì không biết giải_quyết ra sao . Một_vài ngày sau có một thiếu phụ trẻ đẹp dọn đến ở căn nhà bên cạnh . Nàng buôn_bán tơ_lụa . Lưu_Bình làm_quen với nàng và hai người trở_nên bạn thân_thiết . Nàng bán_lụa để giúp chàng ăn_học . Lưu_Bình_học_hành ngày_đêm . Sau_cùng thi đỗ làm_quan và Lưu_Bình xin cưới nàng .",
+                    "qas": [
+                        {
+                            "id": "q_24_2_0",
+                            "question": "Thái_độ của Dương_Lễ khi gặp lại Lưu_Bình trong truyện Tình_bạn Lưu_Bình_Dương_Lễ ?",
+                            "answers": [
+                                {
+                                    "answer_start": 218,
+                                    "text": "thờ ơ_lạnh nhạt"
+                                }
+                            ],
+                            "answer_start_word": 45,
+                            "answer_end_word": 46
+                        },
+                        {
+                            "id": "q_24_2_1",
+                            "question": "Ai đã giúp_đỡ Lưu_Bình vượt qua nghịch_cảnh trong truyện Tình_bạn Lưu_Bình_Dương_Lễ ?",
+                            "answers": [
+                                {
+                                    "answer_start": 974,
+                                    "text": "Nàng bán lụa"
+                                }
+                            ],
+                            "answer_start_word": 198,
+                            "answer_end_word": 199
+                        },
+                        {
+                            "id": "q_24_2_2",
+                            "question": "Hoàn_cảnh của Lưu_Bình sau khi Dương_Lễ làm quan ?",
+                            "answers": [
+                                {
+                                    "answer_start": 510,
+                                    "text": "nghèo_nàn"
+                                }
+                            ],
+                            "answer_start_word": 103,
+                            "answer_end_word": 103
+                        }
+                    ]
+                },
+                {
+                    "context": "Khi ở trường thi về nhà thìLưu Bìnhkhông thấy ân_nhân của mình đâu cả . Anh ta buồn lắm . Nhưng nghĩ tới Dương_Lễ , anh ta muốn cho bạn mình thấy là bây_giờ anh ta không kém ai . Lần gặp_gỡ này Dương_Lễ lại đón_tiếp bạn rất nồng_hậu , mời bạn dự yến tiệc thịnh_soạn , có đàn ca_múa hát để mừng bạn . Khi Lưu_Bình còn đang trở_lại chuyện cũ để mỉa_mai , bấy_giờ Dương_Lễ mới gọi vợ ra để tiếp rượu bạn . Lưu_Bình sửng_sốt khi trông thấy Châu_Long , người_xưa nuôi mình . Thì_ra chính vợ của Dương_Lễ đã giúp_đỡ Lưu_Bình ăn_học thành_tài như ngày hôm_nay . Bây_giờLưu Bìnhmới hiểu hành_động của Dương_Lễ ngày trước khi tiếp_chàng một_cách lạnh_nhạt để cho Lưu_Bình thấy là anh ta không_thể ỷ_vào tiền_bạc mà sống mãi được . Cho_nên Dương_Lễ đã không cho bạn một xu , nhưng lại gởi vợ mình đến giúp bạn ăn_học . Lưu_Bình_hiểu rằng mình có được người bạn chí_thiết nên mãn_nguyện lắm . Từ đó hai gia_đình lại càng thân_thiết hơn .",
+                    "qas": [
+                        {
+                            "id": "q_24_3_0",
+                            "question": "Nhân_vật Nàng bán_lụa là ai trong truyện Tình_bạn Lưu_Bình_Dương_Lễ ?",
+                            "answers": [
+                                {
+                                    "answer_start": 436,
+                                    "text": "Châu_Long"
+                                }
+                            ],
+                            "answer_start_word": 91,
+                            "answer_end_word": 91
+                        },
+                        {
+                            "id": "q_24_3_1",
+                            "question": "Châu_Long là ai trong truyện Tình_bạn Lưu_Bình_Dương_Lễ ?",
+                            "answers": [
+                                {
+                                    "answer_start": 483,
+                                    "text": "vợ của Dương_Lễ"
+                                }
+                            ],
+                            "answer_start_word": 99,
+                            "answer_end_word": 101
+                        },
+                        {
+                            "id": "q_24_3_2",
+                            "question": "Tại_sao Dương_Lễ lại gửi vợ mình tới chỗ Lưu_Bình ?",
+                            "answers": [
+                                {
+                                    "answer_start": 791,
+                                    "text": "giúp bạn ăn_học"
+                                }
+                            ],
+                            "answer_start_word": 153,
+                            "answer_end_word": 155
+                        },
+                        {
+                            "id": "q_24_3_3",
+                            "question": "Sau khi Lưu_Bình thành_tài thì Dương_Lễ đã đón_tiếp anh ta như nào ?",
+                            "answers": [
+                                {
+                                    "answer_start": 224,
+                                    "text": "nồng_hậu"
+                                }
+                            ],
+                            "answer_start_word": 48,
+                            "answer_end_word": 48
+                        },
+                        {
+                            "id": "q_24_3_4",
+                            "question": "Tình_bạn của Dương_Lễ và Lưu_bình trong truyện Tình_bạn Lưu_Bình_Dương_Lễ ở kết_truyện ?",
+                            "answers": [
+                                {
+                                    "answer_start": 910,
+                                    "text": "thân_thiết hơn"
+                                }
+                            ],
+                            "answer_start_word": 175,
+                            "answer_end_word": 176
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Không rõ tiêu đề",
+            "paragraphs": [
+                {
+                    "context": "Mười ba lần trăng_lặn rồi mười ba lần trăng_mọc , đứa bé trong bụng mới tròn tháng . Không ngờ , sau một cơn đau bụng dữ_dội người vợ hóa lại đẻ ra một con Cóc xấu_xí . Người vợ sợ lắm nhưng không nỡ bỏ đứa con của mình . Ngày_ngày bà lên rừng đào củ mài để nuôi Cóc , mong cho Cóc_chóng lớn . Ngày qua tháng lại , cóc lớn dần và trở_thành một chàng Cóc cường_tráng . Rồi mẹ Cóc cũng lại qua_đời . Từ đó Cóc phải tự mình làm_lụng nuôi thân .",
+                    "qas": [
+                        {
+                            "id": "q_10_0_0",
+                            "question": "Trong truyện Chàng cóc , người vợ đã đẻ ra ?",
+                            "answers": [
+                                {
+                                    "answer_start": 148,
+                                    "text": "một con Cóc"
+                                }
+                            ],
+                            "answer_start_word": 33,
+                            "answer_end_word": 35
+                        },
+                        {
+                            "id": "q_10_0_1",
+                            "question": "Con của vợ_chồng trong truyện Chàng cóc là ai ?",
+                            "answers": [
+                                {
+                                    "answer_start": 152,
+                                    "text": "con Cóc xấu_xí"
+                                }
+                            ],
+                            "answer_start_word": 34,
+                            "answer_end_word": 36
+                        },
+                        {
+                            "id": "q_10_0_2",
+                            "question": "Người vợ đã nuôi chàng Cóc bằng cái gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 248,
+                                    "text": "củ mài"
+                                }
+                            ],
+                            "answer_start_word": 56,
+                            "answer_end_word": 57
+                        }
+                    ]
+                },
+                {
+                    "context": "Hồi ấy ở gần nhà Cóc có tên Khoàng_Tý . Nhà Khoàng_Tý có ba cô con gái đã đến tuổi lấy chồng . Đã bao_nhiêu lần , Khoàng_Tý mở_hội để kén chọn con rể . Nhiều chàng trai đẹp đến để thi_tài . Nhiều con nhà giàu mang trâu , ngựa đến để hỏi nhưng chưa ai làm Khoàng_Tý ưng bụng . Lần ấy chàng Cóc tìm đến xin để làm con rể Khoàng_Tý . Vừa thấy Cóc , Khoàng_Tý đã giận_dữ hét lên :",
+                    "qas": [
+                        {
+                            "id": "q_10_1_0",
+                            "question": "Trong truyện_chàng Cóc , chàng Cóc muốn được làm_rể của ai ?",
+                            "answers": [
+                                {
+                                    "answer_start": 28,
+                                    "text": "Khoàng Tý"
+                                }
+                            ],
+                            "answer_start_word": 8,
+                            "answer_end_word": 8
+                        },
+                        {
+                            "id": "q_10_1_1",
+                            "question": "Ai đã mở_hội để kén_rể trong chàng Cóc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 28,
+                                    "text": "Khoàng Tý"
+                                }
+                            ],
+                            "answer_start_word": 8,
+                            "answer_end_word": 8
+                        }
+                    ]
+                },
+                {
+                    "context": "Chàng Cóc nhận_lời , rồi mang cung tên đi , vào rừng săn chim . Hôm ấy trời nổi_gió dữ_dội . Lá to lá nhỏ rơi ào_ào , cây đổ ngổn_ngang , nhiều thú_vật bị chết . Đến một gốc cây to cạnh con suối lớn , chàng Cóc thấy chín con chim bị gió_bão quật chết từ lúc_nào . Chàng liền nhặt lấy xâu vào một mũi_tên rồi đem về dâng lên Khoàng_Tý . Khoàng Tý_phục chàng Cóc lắm . Nó lại ra thêm một điều_kiện :",
+                    "qas": [
+                        {
+                            "id": "q_10_2_0",
+                            "question": "Chàng Cóc phải làm gì để lấy vợ ?",
+                            "answers": [
+                                {
+                                    "answer_start": 53,
+                                    "text": "săn chim"
+                                }
+                            ],
+                            "answer_start_word": 12,
+                            "answer_end_word": 13
+                        },
+                        {
+                            "id": "q_10_2_1",
+                            "question": "Để được làm_rể , chàng Cóc phải làm gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 53,
+                                    "text": "săn chim"
+                                }
+                            ],
+                            "answer_start_word": 12,
+                            "answer_end_word": 13
+                        },
+                        {
+                            "id": "q_10_2_2",
+                            "question": "Chàng Cóc đã săn được chín con chim ở đâu ?",
+                            "answers": [
+                                {
+                                    "answer_start": 186,
+                                    "text": "con suối lớn"
+                                }
+                            ],
+                            "answer_start_word": 43,
+                            "answer_end_word": 45
+                        }
+                    ]
+                },
+                {
+                    "context": "– Lần này mày phải kiếm liền một lúc chín gánh củi về đây . Được vậy ta sẽ gả con gái cho . Nếu không tao sẽ đánh cho mày một trận .",
+                    "qas": [
+                        {
+                            "id": "q_10_3_0",
+                            "question": "Điều_kiện thứ hai để chàng Cóc được làm rể là gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 37,
+                                    "text": "chín gánh củi"
+                                }
+                            ],
+                            "answer_start_word": 9,
+                            "answer_end_word": 11
+                        },
+                        {
+                            "id": "q_10_3_1",
+                            "question": "Khoàng_Tý muốn chàng Cóc kiếm cái gì để kén rể ?",
+                            "answers": [
+                                {
+                                    "answer_start": 37,
+                                    "text": "chín gánh củi"
+                                }
+                            ],
+                            "answer_start_word": 9,
+                            "answer_end_word": 11
+                        },
+                        {
+                            "id": "q_10_3_2",
+                            "question": "Chàng Cóc phải tìm cái gì để lấy được vợ ?",
+                            "answers": [
+                                {
+                                    "answer_start": 37,
+                                    "text": "chín gánh củi"
+                                }
+                            ],
+                            "answer_start_word": 9,
+                            "answer_end_word": 11
+                        }
+                    ]
+                },
+                {
+                    "context": "Nghe vậy , hai cô chị bĩu môi , nhổ nước_bọt vào lưng Cóc rồi bỏ đi . Chỉ có cô em_út là chẳng_nói_chẳng_rằng , lặng_lẽ đến khêu_gai cho chàng Cóc . Cô đã khêu lâu lắm mà gai chẳng ra . Lúc bấy_giờ Cóc mới bảo rằng :",
+                    "qas": [
+                        {
+                            "id": "q_10_4_0",
+                            "question": "Chàng cóc đã nhờ ba cô gái làm gì ?",
+                            "answers": [
+                                {
+                                    "answer_start": 124,
+                                    "text": "khêu gai"
+                                }
+                            ],
+                            "answer_start_word": 27,
+                            "answer_end_word": 27
+                        }
+                    ]
+                },
+                {
+                    "context": "Lần thứ hai rồi lần thứ ba , Khoàng_Tý đều nhằm vào đầu_Cóc mà bổ . Nhưng cả ba lần Cóc đều tránh được . Thất_lạ , Khoàng Tý_thầm nghĩ : “ Hay ta bổ vào ngón chân cái của nó xem sao ” . Khoàng Tý_lền bổ mạnh vào ngón chân cái của chàng Cóc . Bổ xong , mệt quá , mồ_hôi Khoàng_Tý đầm_đìa , mắt hoa lên . Hắn phải ngồi phịch xuống đất , nhắm_mắt lại để thở . Khi mở được mắt ra thì Khoàng_Tý thấy trước mặt mình chín gánh củi to và khô . Chàng Cóc bảo Khoàng_Tý :",
+                    "qas": [
+                        {
+                            "id": "q_10_5_0",
+                            "question": "Ai muốn hãm_hại chàng Cóc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 115,
+                                    "text": "Khoàng Tý"
+                                }
+                            ],
+                            "answer_start_word": 27,
+                            "answer_end_word": 28
+                        }
+                    ]
+                },
+                {
+                    "context": "Hai cô chị thi nhau cười giễu_Cóc . Hết chê_chàng da xù_xì , lung_gù lại chê là mùi hôi_thối . Chúng không thèm trả_lời , nhổ nước_bọt vào lưng cóc rồi bỏ đi . Cô em_út thì chẳng_nói chẳng_rằng cứ ngồi im_lặng . Thấy vậy , Khoàng_Tý bực lắm , hỏi :",
+                    "qas": [
+                        {
+                            "id": "q_10_6_0",
+                            "question": "Ai đã đồng_ý làm vợ chàng Cóc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 160,
+                                    "text": "Cô em_út"
+                                }
+                            ],
+                            "answer_start_word": 34,
+                            "answer_end_word": 35
+                        }
+                    ]
+                },
+                {
+                    "context": "Cô gái lặng_lẽ gật đầu . Cuối_cùng Khoàng_Tý đành phải ưng_thuận cho con gái út lấy chàng Cóc xấu_xí . Lúc tiễn hai vợ_chồng Cóc , Khoàng_Tý gọi con gái lại gần và bảo :",
+                    "qas": [
+                        {
+                            "id": "q_10_7_0",
+                            "question": "Chàng Cóc đã lấy ai làm vợ trong truyện chàng cóc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 69,
+                                    "text": "con gái út"
+                                }
+                            ],
+                            "answer_start_word": 12,
+                            "answer_end_word": 14
+                        }
+                    ]
+                },
+                {
+                    "context": "– Cha em không ưng bụng cho em sống cùng chàng đâu . Bụng cha em ác lắm , khác với bụng em nhiều , nhưng chàng đừng buồn , em không làm khác ý_muốn của mình đâu . Nói hết câu , cô gái ném cái chày đá xuống vực rồi xuống ngựa cùng đi bộ với Cóc về nhà . Hai vợ_chồng sống trong một túp lều tranh lụp_xụp , rách_nát . Hàng ngày , Cóc vẫn một_mình phát_nương làm rẫy . Vợ Cóc_thương chồng lắm . Một lần nàng theo chồng đi ra nương . Đến_nơi , nàng nhìn mãi mà không thấy chồng đâu , chỉ thấy một chàng trai khỏe , đẹp đang mải_mê làm nương . Người vợ mải nhìn chàng trai , bàn_chân vô_tình đâm phải cành lá khô dưới đất . Thấy động , chàng trai lập_tức chạy trốn vào một bụi cây gần đấy . Vợ Cóc lạ quá liền rượt theo , thì chẳng thấy chàng trai đâu mà chỉ thấy một con Cóc ngồi chồm chỗm dưới gốc cây mục . Vợ ra làm nương tiếp . Vừa làm , nàng vừa nghĩ ; không biết chàng trai kia là ai mà_lại đến nương làm hộ nhà mình .",
+                    "qas": [
+                        {
+                            "id": "q_10_8_0",
+                            "question": "Chàng cóc cùng vợ sống ở đâu ?",
+                            "answers": [
+                                {
+                                    "answer_start": 281,
+                                    "text": "túp lều tranh"
+                                }
+                            ],
+                            "answer_start_word": 67,
+                            "answer_end_word": 69
+                        },
+                        {
+                            "id": "q_10_8_1",
+                            "question": "Chàng trai khỏe đẹp làm nương_hộ trong truyện_chàng Cóc là ai ?",
+                            "answers": [
+                                {
+                                    "answer_start": 240,
+                                    "text": "Cóc"
+                                }
+                            ],
+                            "answer_start_word": 58,
+                            "answer_end_word": 58
+                        }
+                    ]
+                },
+                {
+                    "context": "Một lần khác trong vùng lại có hội . Cóc lại giục vợ đi trước . Còn mình đi sau . Lần này vợ Cóc đi đến nửa đường thì quay về nhà . Quả_nhiên nàng nhìn thấy một tấm da Cóc ở dưới gầm giường . Chẳng chút chần_chừ , nàng liền chạy lại cầm lấy tấm da ném vào lửa . Lúc ấy ở đám hội đang vui , tự_nhiên chàng Cóc thấy người bỗng nóng_rực lên , biết có chuyện xảy ra chàng bèn chạy ngay về nhà . Vừa vào đến cửa chàng đã ngửi thấy mùi khét , bèn lấy que khều đống lửa thì thây tấm da đã cháy hết . Từ đó Cóc mãi_mãi hóa thành người và vợ_chồng Cóc sống bên nhau đầm_ấm .",
+                    "qas": [
+                        {
+                            "id": "q_10_9_0",
+                            "question": "Vợ Cóc tìm thấy cái gì ở dưới gầm giường trong truyện_Chàng Cóc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 161,
+                                    "text": "tấm da Cóc"
+                                }
+                            ],
+                            "answer_start_word": 39,
+                            "answer_end_word": 41
+                        },
+                        {
+                            "id": "q_10_9_1",
+                            "question": "Ai đã giúp chàng Cóc hóa thành người ?",
+                            "answers": [
+                                {
+                                    "answer_start": 90,
+                                    "text": "vợ Cóc"
+                                }
+                            ],
+                            "answer_start_word": 23,
+                            "answer_end_word": 24
+                        }
+                    ]
+                },
+                {
+                    "context": "Thế rồi sáng hôm sau chàng Cóc từ_biệt người vợ xinh_đẹp ra đi , trong tay chỉ có vài đồng_bạc nén . Chàng phải đi xa , xa lắm . Trên đường chàng gặp một Xê_sư . Xê_sư biết Cóc là người tài giỏi tốt_bụng nên muốn giúp chàng đạt được ý_muốn . Xê_sư hỏi :",
+                    "qas": [
+                        {
+                            "id": "q_10_10_0",
+                            "question": "Chàng Cóc đã gặp ai khi lên_đường trong truyện_Chàng Cóc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 154,
+                                    "text": "Xê_sư"
+                                }
+                            ],
+                            "answer_start_word": 35,
+                            "answer_end_word": 35
+                        },
+                        {
+                            "id": "q_10_10_1",
+                            "question": "Ai đã giúp chàng Cóc sau khi chàng từ biệt người vợ ?",
+                            "answers": [
+                                {
+                                    "answer_start": 154,
+                                    "text": "Xê_sư"
+                                }
+                            ],
+                            "answer_start_word": 35,
+                            "answer_end_word": 35
+                        }
+                    ]
+                },
+                {
+                    "context": "Nói xong Xê_sư đi về một ngả , còn chàng Cóc cứ theo ngọn núi trước_mắt mà đi . Chàng đi qua bản đầu_tiên thì thấy một đám người đang định làm_thịt con chó . Mắt nó ươn_ướt như muốn nói với chàng một điều gì . Chàng Cóc_thương_hại con chó sắp bị làm_thịt bèn bỏ một đồng_bạc nén ra để mua . Con chó thoát chết mừng lắm . Nó ngoe ngẩy cái đuôi tỏ ý cám_ơn chàng . Người và chó cùng đi . Đến một bản khác chàng Cóc lại thấy một con mèo xám bị nhốt vào giỏ sắp đêm thả xuống sông . Nghe tiếng kêu thảm_thiết của con vật , chàng Cóc không nỡ để người ta giết nó . Chàng lại bỏ một đồng_bạc nén để mua con mèo . Chó , mèo cùng chàng Cóc đi đến một cánh rừng nọ thì thấy rất nhiều người xúm quanh một con trăn lớn . Họ sắp giết_chăn . Con trăn sợ lắm . Nó đang ra_sức giãy_giụa để mong thoát chết . Không ngần_ngại chàng Cóc lại dốc cả số tiền còn lại ở trong túi để mua con trăn . Thế_là số tiền mang theo không còn một xu . Chàng Cóc vui_vẻ cung những con vật vừa mua được quay về nhà .",
+                    "qas": [
+                        {
+                            "id": "q_10_11_0",
+                            "question": "Ai đã được chàng Cóc cứu ?",
+                            "answers": [
+                                {
+                                    "answer_start": 942,
+                                    "text": "những con vật"
+                                }
+                            ],
+                            "answer_start_word": 212,
+                            "answer_end_word": 214
+                        }
+                    ]
+                },
+                {
+                    "context": "Vợ Cóc khóc nhiều lắm . Nước_mắt nàng chảy đã ướt hết một cái áo rồi hai cái áo , mà Khoàng_Tý vẫn không chịu nghe . Tên xú cà_bụng rất muốn có con gái làm vợ cho con nên nó cho mổ nhiều lợn , nhiều gà , lấy nhiều rượu , nhiều thuốc mời những kẻ giàu ở quanh vùng về ăn_lễ . Nó muốn lễ cưới con nó với cô gái xinh_đẹp con Khoàng_Tý phải to nhất trong vùng . Chúng đang ăn_uống linh_đình thì đột_nhiên có tiếng đập cửa thình_thình . Cửa_bật mở , chàng Cóc lừng_lững bước vào trong nhà . Chúng vừa ngạc_nhiên vừa tức nhưng vẫn phải mời chàng Cóc ăn cơm . Khi mời rượu khách , chủ nhà rót quanh một lượt riêng chàng Cóc thì nó bỏ_qua . Chàng Cóc_giận lắm , nhớ đến lời Xê_sư dặn trên đường , chàng nói :",
+                    "qas": [
+                        {
+                            "id": "q_10_12_0",
+                            "question": "Vợ Cóc bị ép gả cho ai trong truyện Chàng cóc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 121,
+                                    "text": "xú cà"
+                                }
+                            ],
+                            "answer_start_word": 28,
+                            "answer_end_word": 29
+                        }
+                    ]
+                },
+                {
+                    "context": "– Hỡi cô gái đẹp ơi !_Cô có thấy con trăn của tôi buộc ở đây không ?",
+                    "qas": [
+                        {
+                            "id": "q_10_13_0",
+                            "question": "Con trăn trong truyện_Chàng cóc đã biến thành ai ?",
+                            "answers": [
+                                {
+                                    "answer_start": 6,
+                                    "text": "cô gái đẹp"
+                                }
+                            ],
+                            "answer_start_word": 2,
+                            "answer_end_word": 4
+                        }
+                    ]
+                },
+                {
+                    "context": "– Xuống đó , khi về thế_nào cha_mẹ em cụng tạ ơn_chàng đã cứu sống em . Chàng chớ có lấy vàng_bạc mà hãy xin chiếc đuôi cá bằng vàng treo ở giữa nhà ấy . Nó sẽ giúp chàng ước gì được nấy .",
+                    "qas": [
+                        {
+                            "id": "q_10_14_0",
+                            "question": "Để tạ ơn cứu_mạng , chăn đã tặng gì cho chàng Cóc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 109,
+                                    "text": "chiếc đuôi cá"
+                                }
+                            ],
+                            "answer_start_word": 25,
+                            "answer_end_word": 27
+                        }
+                    ]
+                },
+                {
+                    "context": "Chàng Cóc làm theo lời dặn của cô gái . Chàng nhắm_mắt lại và nắm chặt lấy thắt_lưng cô gái . Khi mở_mắt ra chàng thấy mình đang ở trong một ngôi nhà lớn có nhiều lợn gà , vàng_bạc . Cô gái kể đầu_đuôi câu_chuyện cho cha mình nghe . Be dòng niềm_nở đón_tiếp chàng . Be dòng dọn cho chàng ăn những thức_ăn ngon nhất nơi thủy_cung . Rồi cô gái lại dẫn chàng đi xem những cảnh đẹp . Sống được ít ngày , chang Cóc thấy nhớ vợ và xin Be dòng trở_lại cõi_trần . Be dòng biết không_thể giữa chàng ở lại thủy_cung , liền bảo_chàng :",
+                    "qas": [
+                        {
+                            "id": "q_10_15_0",
+                            "question": "Chàng cóc đã được trăn dẫn đi đâu ?",
+                            "answers": [
+                                {
+                                    "answer_start": 319,
+                                    "text": "thủy cung"
+                                }
+                            ],
+                            "answer_start_word": 68,
+                            "answer_end_word": 68
+                        },
+                        {
+                            "id": "q_10_15_1",
+                            "question": "Ai đã tiếp_đón chàng cóc ở dưới thủy cung ?",
+                            "answers": [
+                                {
+                                    "answer_start": 233,
+                                    "text": "Be dòng"
+                                }
+                            ],
+                            "answer_start_word": 51,
+                            "answer_end_word": 52
+                        }
+                    ]
+                },
+                {
+                    "context": "– Tôi chỉ muốn xin chiếc đuôi cá vàng kia .",
+                    "qas": [
+                        {
+                            "id": "q_10_16_0",
+                            "question": "Chàng cóc đã chọn lấy cái gì ở dưới thủy cung ?",
+                            "answers": [
+                                {
+                                    "answer_start": 19,
+                                    "text": "chiếc đuôi cá"
+                                }
+                            ],
+                            "answer_start_word": 5,
+                            "answer_end_word": 7
+                        }
+                    ]
+                },
+                {
+                    "context": "Chàng Cóc_nhắm_mắt lại và nhờ cô gái xinh_đẹp đưa lên bờ . Về đến nhà , theo lời dặn của cô gái , chàng Cóc tự tay đóng một cái bàn xinh_xắn . Đóng xong , chàng gọi vợ đến và quét xuôi_đuôi cá ba lần lên mặt bàn . Một mâm cơm ngon , đầy rượu thịt hiện ra . Hai vợ_chồng cùng ăn_uống vui_vẻ . Sau đó chàng lại qué ba lần lên mặt bàn . Lập_tức một tòa nhà bằng vàng óng ánh , cùng không biết_bao_nhiêu trâu , bò , lơn , gà hiện ra . Từ đấy cuộc_sống của hai vợ_chồng Cóc trở_nên sung_sướng , hạnh_phúc .",
+                    "qas": [
+                        {
+                            "id": "q_10_17_0",
+                            "question": "Chàng cóc và vợ đã sống ở đâu trong kết_truyện chàng Cóc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 346,
+                                    "text": "tòa nhà bằng vàng"
+                                }
+                            ],
+                            "answer_start_word": 80,
+                            "answer_end_word": 83
+                        }
+                    ]
+                },
+                {
+                    "context": "Còn Khoàng_Tý , khi tan bữa tiệc cưới ít hôm , có người vào báo có chuyện lạ là vợ chàng Cóc vẫn không chịu về làm vợ_con nhà xú cà . Không_những thế_chàng Cóc lại vừa_mới xây xong một tòa nhà bằng vàng rất đẹp . Khoàng_Tý lúc đầy không tin , đến tận nơi xem thì quả đúng như_vậy . Hắn trở về và đem những điều mắt thấy tai nghe thuật lại cho vợ và hai cô con gái cả . Chúng không tin . Vợ Khoàng_Tý bèn tới nơi để xem thử . Đến nhà con gái , mụ thấy hai vợ_chồng chàng Cóc béo_khỏe , xinh_đẹp , sống rất sung_sướng trong một tòa nhà lộng_lẫy bằng vàng . Vợ_chồng Cóc ra tận cổng đón mụ . Ở nhà vợ_chồng Cóc , mụ vợ Khoàng_Tý được ăn những thúc ngon_lạ bấy_nay chưa hề thấy . Rồi mụ lại còn được thấy những của cải_quí của con gái . Máu tham_nổi lên che hết đầu hết mặt . Mụ_gạn hỏi vợ_chồng Cóc .",
+                    "qas": [
+                        {
+                            "id": "q_10_18_0",
+                            "question": "Ai đã tới thăm tòa nhà vàng của vợ_chồng Cóc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 387,
+                                    "text": "Vợ Khoàng Tý"
+                                }
+                            ],
+                            "answer_start_word": 88,
+                            "answer_end_word": 89
+                        }
+                    ]
+                },
+                {
+                    "context": "Chàng Cóc thật bụng kể lại mọi chuyện chuyện cho mụ nghe . Khi đã biết được nhiều bí_ẩn , vợ Khoàng_Tý vội_vã ra về . Mụ đi nhanh như gió thổi , như có con ma_đuổi sau lưng . Vừa về đến nhà , mụ liền gọi chồng đến nhỏ to_thuật lại mọi chuyện . Khoàng_Tý nghĩ vợ mình nói_dối nên lại sai hai con gái đến nhà vợ_chồng Cóc . Hai cô chị trở về đều nói đúng như lời mụ . Khoàng_Tý vẫn chưa tin . Hắn muốn tự mình đến_nơi xem hư thực_lần nữa . Ngay sáng hôm sau , hắn vội_vã đến nhà vợ_chồng con gái út . Hắn trở về nhà vừa lúc hai cô con gái cả của hắn vừa chết . Chẳng_là , hai cô chị thấy chồng em mình giàu quá , đẹp quá liền tìm cách giết em_gái để cướp chồng . Nhưng cô cả lại sợ cô thứ hai tranh mất nên tìm cách hại em . Hôm đó chúng dủ nhau đi tắm , thấy em sơ_ý , cô cả liền đẩy em xuống sông , rồi chạy vào rừng_định tìm hái lá ngón về giết em_út . Nhưng vừa vào đến rừng chưa kịp hái thì đã bị một con rắn độc_bò đến cắn chết tươi .",
+                    "qas": [
+                        {
+                            "id": "q_10_19_0",
+                            "question": "Hai cô chị đã dùng cái gì để hãm_hại vợ Cóc trong truyện Chàng cóc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 830,
+                                    "text": "lá ngón"
+                                }
+                            ],
+                            "answer_start_word": 194,
+                            "answer_end_word": 195
+                        }
+                    ]
+                },
+                {
+                    "context": "– Anh chó ơi !_Anh ở đây rình bắt lấy con chuột_chúa nhé ! Tôi sẽ vào xua nó ra . Khoảng Tý để đuôi cá_thần trong hòm , ta phải bắt chuột cắn thủng_hòm mới lấy được .",
+                    "qas": [
+                        {
+                            "id": "q_10_20_0",
+                            "question": "Khoảng Tý đã giữ đuôi cá_thần ở đâu trong truyện_Chàng Cóc ?",
+                            "answers": [
+                                {
+                                    "answer_start": 108,
+                                    "text": "trong hòm"
+                                }
+                            ],
+                            "answer_start_word": 26,
+                            "answer_end_word": 27
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
