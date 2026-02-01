@@ -40,14 +40,14 @@ def main():
                 continue
             
             os.system('cls' if os.name == 'nt' else 'clear')
-            print(f"📖 Truyện [{i+1}/{total_stories}]: {title}")
-            print(f"📄 Đoạn văn số: {p_idx + 1}")
+            print(f" Truyện [{i+1}/{total_stories}]: {title}")
+            print(f" Đoạn văn số: {p_idx + 1}")
             print("\n--- NGỮ CẢNH (CONTEXT) ---")
             print(p['context'])
             print("-" * 30)
             
             while True:
-                q = input("\n👉 Nhập CÂU HỎI (s: bỏ qua đoạn này, n: nhảy sang truyện kế, exit: nghỉ): ").strip()
+                q = input("\n Nhập CÂU HỎI (s: bỏ qua đoạn này, n: nhảy sang truyện kế, exit: nghỉ): ").strip()
                 
                 if q.lower() == 's':
                     p['is_skipped'] = True # Đánh dấu để lần sau không hiện lại
@@ -58,24 +58,24 @@ def main():
                     save_data(dataset)
                     return
 
-                ans = input("👉 Copy & Paste CÂU TRẢ LỜI: ").strip()
+                ans = input(" CÂU TRẢ LỜI: ").strip()
                 start_idx_found = p['context'].find(ans)
                 
                 if start_idx_found == -1:
-                    print("❌ LỖI: Câu trả lời không khớp. Hãy copy lại!")
+                    print(" LỖI: Câu trả lời không khớp. Hãy copy lại!")
                 else:
                     p['qas'].append({
                         "id": f"q_{i}_{p_idx}_{len(p['qas'])}",
                         "question": q,
                         "answers": [{"answer_start": start_idx_found, "text": ans}]
                     })
-                    print(f"✅ Đã thêm! (Vị trí: {start_idx_found})")
+                    print(f" Đã thêm! (Vị trí: {start_idx_found})")
                     if input("Thêm câu nữa? (y/n): ").lower() != 'y': break
             
             save_data(dataset)
             if q.lower() == 'n': break # Thoát vòng lặp paragraph của truyện hiện tại
 
-    print("\n🎉 Hoàn thành!")
+    print("\n Hoàn thành!")
 
 if __name__ == "__main__":
     main()

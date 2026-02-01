@@ -1,31 +1,41 @@
 import json
 import random
+import os
 
-def split_again(input_file, train_file, dev_file, split_ratio=0.8):
+def split_data(input_file, train_file, dev_file, split_ratio=0.8):
+    if not os.path.exists(input_file):
+        print(f" Không tìm thấy file {input_file}")
+        return
+
     with open(input_file, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+        data = json.load(f) # data bây giờ là một list [{}, {}, ...]
 
-    all_stories = data['data']
-    # Sử dụng random.seed nếu bạn muốn kết quả split giống hệt lần trước (nếu cần)
-    # random.seed(42) 
-    random.shuffle(all_stories)
+    # Shuffle dữ liệu để đảm bảo tính ngẫu nhiên
+    random.seed(42) # Giữ cố định để nếu chạy lại kết quả split không đổi
+    random.shuffle(data)
 
-    split_index = int(len(all_stories) * split_ratio)
+    split_index = int(len(data) * split_ratio)
     
-    train_stories = all_stories[:split_index]
-    dev_stories = all_stories[split_index:]
+    train_data = data[:split_index]
+    dev_data = data[split_index:]
 
-    # Lưu file Train mới
+    # Lưu file Train
     with open(train_file, 'w', encoding='utf-8') as f:
-        json.dump({"version": "v1.0", "data": train_stories}, f, ensure_ascii=False, indent=4)
+        json.dump(train_data, f, ensure_ascii=False, indent=4)
     
-    # Lưu file Dev mới
+    # Lưu file Dev
     with open(dev_file, 'w', encoding='utf-8') as f:
-        json.dump({"version": "v1.0", "data": dev_stories}, f, ensure_ascii=False, indent=4)
+        json.dump(dev_data, f, ensure_ascii=False, indent=4)
 
-    print(f"✅ Đã split lại thành công!")
-    print(f" - Train: {len(train_stories)} truyện với ID mới")
-    print(f" - Dev: {len(dev_stories)} truyện với ID mới")
+    print(f" Đã chia dữ liệu thành công!")
+    print(f" - Tổng cộng: {len(data)} QA")
+    print(f" - Tập Train (80%): {len(train_data)} QA")
+    print(f" - Tập Dev (20%): {len(dev_data)} QA")
 
-# Thực hiện split
-split_again("vietnamese_folktale_50_final_v2.json", "train.json", "dev.json")
+if __name__ == "__main__":
+    # Sử dụng file output từ preprocess.py làm đầu vào cho split
+    split_data(
+        "vietnamese_folktale_char_preprocessed.json", 
+        "data/train.json", 
+        "data/dev.json"
+    )
