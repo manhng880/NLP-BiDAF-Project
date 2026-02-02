@@ -62,16 +62,6 @@ def evaluate(model_path, data_json, word2idx_path, char2idx_path):
         
         total_em += em
         total_f1 += f1
-        
-        # Lưu lại một vài ví dụ để xem
-        if i < 5: # Lưu 5 ví dụ đầu tiên
-            results.append({
-                'q': question_text,
-                'gold': gold_text,
-                'pred': pred_text,
-                'em': em,
-                'f1': f1
-            })
 
     # 3. Hiển thị kết quả
     print("\n" + "="*50)
@@ -80,18 +70,10 @@ def evaluate(model_path, data_json, word2idx_path, char2idx_path):
     print(f" F1 Score: {total_f1 / len(dataset) * 100:.2f}%")
     print("="*50 + "\n")
 
-    print(" XEM THỬ VÀI VÍ DỤ:")
-    for res in results:
-        print(f" Q: {res['q']}")
-        print(f"  - Thật: {res['gold']}")
-        print(f"  - Đoán: {res['pred']} {' (ĐÚNG)' if res['em'] else ' (SAI)'}")
-        print(f"  - F1: {res['f1']:.2f}")
-        print("-" * 20)
-
 if __name__ == "__main__":
     # Thay 'bidaf_epoch_20.pt' bằng file bạn muốn test
     evaluate(
-        model_path='save/bidaf_epoch_20.pt', 
+        model_path='save/bidaf_epoch_22.pt', 
         data_json='data/dev.json', 
         word2idx_path='data/processed/word2idx.json', 
         char2idx_path='data/processed/char2idx.json'
