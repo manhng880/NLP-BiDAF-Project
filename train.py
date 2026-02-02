@@ -25,8 +25,8 @@ def train():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     batch_size = 4
     hidden_size = 100
-    step_size = 5 
-    lr = 0.1  # Adadelta thường dùng lr cao
+    step_size = 10 
+    lr = 0.5  # Adadelta thường dùng lr cao
     save_dir = 'save'
     
     if not os.path.exists(save_dir):

@@ -73,7 +73,7 @@ def evaluate(model_path, data_json, word2idx_path, char2idx_path):
 if __name__ == "__main__":
     # Thay 'bidaf_epoch_20.pt' bằng file bạn muốn test
     evaluate(
-        model_path='save/bidaf_epoch_22.pt', 
+        model_path='save/bidaf_epoch_20.pt', 
         data_json='data/dev.json', 
         word2idx_path='data/processed/word2idx.json', 
         char2idx_path='data/processed/char2idx.json'
